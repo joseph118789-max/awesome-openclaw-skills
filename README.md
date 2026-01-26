@@ -191,7 +191,7 @@ Priority: Workspace > Local > Bundled
 
 ## CAD & 3D Printing
 
-- [cad-agent](https://github.com/clawd-maf/cad-agent) - Rendering server for AI agents doing CAD work. Send build123d commands, receive rendered images, iterate visually. Supports 3D/2D renders, STL export, printability analysis.
+- [cad-agent](https://github.com/clawd-maf/cad-agent/blob/master/SKILL.md) - Rendering server for AI agents doing CAD work. Send build123d commands, receive rendered images, iterate visually. Supports 3D/2D renders, STL export, printability analysis.
 
 ## Image & Video Generation
 

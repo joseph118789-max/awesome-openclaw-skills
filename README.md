@@ -594,6 +594,7 @@ Priority: Workspace > Local > Bundled
 - [table-image](https://github.com/moltbot/skills/tree/main/skills/joargp/table-image/SKILL.md) - Generate images from tables for better readability in messaging apps like Telegram.
 - [telegram-usage](https://github.com/moltbot/skills/tree/main/skills/c-drew/telegram-usage/SKILL.md) - Display session usage statistics (quota, session time, tokens, context).
 - [wacli](https://github.com/moltbot/skills/tree/main/skills/steipete/wacli/SKILL.md) - Send WhatsApp messages to other people or search/sync WhatsApp history.
+- [webchat-audio-notifications](https://clawdhub.com/brokemac79/webchat-audio-notifications) - Browser audio notifications for webchat with 5 intensity levels, custom sounds, and smart tab detection.
 - [whatsapp-video-mockup](https://github.com/moltbot/skills/tree/main/skills/danpeg/whatsapp-video-mockup/SKILL.md) - whatsapp-video-mockup
 
 ## Speech & Transcription

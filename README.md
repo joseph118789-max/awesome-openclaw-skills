@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-    <strong>A collection of 565+ community-built skills for Moltbot(formerly Clawdbot), categorized for easy discovery.
+    <strong>A collection of 700+ community-built skills for Moltbot(formerly Clawdbot), categorized for easy discovery.
     </strong>
     <br />
     <br />
@@ -19,7 +19,7 @@
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
 </a> 
 
-![Skills Count](https://img.shields.io/badge/skills-565+-blue?style=flat-square)
+![Skills Count](https://img.shields.io/badge/skills-700+-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 [![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-clawdbot-skills?style=social)](https://github.com/VoltAgent/awesome-claude-skills/network/members)
@@ -29,16 +29,16 @@
 
 Moltbot(formerly Clawdbot) is a locally-running AI assistant that operates directly on your machine. Skills extend its capabilities, allowing it to interact with external services, automate workflows, and perform specialized tasks. This collection helps you discover and install the right skills for your needs.
 
-Skills in this list are sourced from [ClawdHub](https://clawdhub.com) (Moltbot's public skills registry) and categorized for easier discovery.
+Skills in this list are sourced from [MoltHub](https://clawdhub.com) (Moltbot's public skills registry) and categorized for easier discovery.
 
 These skills follow the Agent Skill convention develop by Anthropic, an open standard for AI coding assistants.
 
 ## Installation
 
-### ClawdHub CLI
+### MoltHub CLI
 
 ```bash
-npx clawdhub@latest install <skill-slug>
+npx molthub@latest install <skill-slug>
 ```
 
 ### Manual Installation
@@ -55,38 +55,34 @@ Priority: Workspace > Local > Bundled
 
 ## Table of Contents
 
-- [Web & Frontend Development](#web--frontend-development) (17)
-- [Coding Agents & IDEs](#coding-agents--ides) (16)
+- [Web & Frontend Development](#web--frontend-development) (14)
+- [Coding Agents & IDEs](#coding-agents--ides) (15)
 - [Git & GitHub](#git--github) (9)
-- [DevOps & Cloud](#devops--cloud) (35)
-- [Browser & Automation](#browser--automation) (8)
-- [CAD & 3D Printing](#cad--3d-printing) (1)
-- [Image & Video Generation](#image--video-generation) (9)
-- [Apple Apps & Services](#apple-apps--services) (11)
-- [Search & Research](#search--research) (12)
-- [Clawdbot Tools](#clawdbot-tools) (13)
-- [CLI Utilities](#cli-utilities) (37)
-- [Marketing & Sales](#marketing--sales) (36)
-- [Productivity & Tasks](#productivity--tasks) (33)
-- [AI & LLMs](#ai--llms) (31)
-- [Finance & Crypto](#finance--crypto) (30)
-- [Media & Streaming](#media--streaming) (27)
-- [Notes & PKM](#notes--pkm) (26)
+- [DevOps & Cloud](#devops--cloud) (41)
+- [Browser & Automation](#browser--automation) (11)
+- [Image & Video Generation](#image--video-generation) (19)
+- [Apple Apps & Services](#apple-apps--services) (14)
+- [Search & Research](#search--research) (23)
+- [Clawdbot Tools](#clawdbot-tools) (17)
+- [CLI Utilities](#cli-utilities) (41)
+- [Marketing & Sales](#marketing--sales) (42)
+- [Productivity & Tasks](#productivity--tasks) (41)
+- [AI & LLMs](#ai--llms) (38)
+- [Finance](#finance) (29)
+- [Media & Streaming](#media--streaming) (29)
+- [Notes & PKM](#notes--pkm) (44)
 - [iOS & macOS Development](#ios--macos-development) (13)
-- [Transportation](#transportation) (25)
-- [Personal Development](#personal-development) (22)
-- [Health & Fitness](#health--fitness) (21)
-- [Communication](#communication) (19)
-- [Speech & Transcription](#speech--transcription) (17)
-- [Smart Home & IoT](#smart-home--iot) (16)
-- [Shopping & E-commerce](#shopping--e-commerce) (16)
-- [Calendar & Scheduling](#calendar--scheduling) (14)
+- [Transportation](#transportation) (34)
+- [Personal Development](#personal-development) (27)
+- [Health & Fitness](#health--fitness) (26)
+- [Communication](#communication) (26)
+- [Speech & Transcription](#speech--transcription) (21)
+- [Smart Home & IoT](#smart-home--iot) (31)
+- [Shopping & E-commerce](#shopping--e-commerce) (22)
+- [Calendar & Scheduling](#calendar--scheduling) (16)
 - [PDF & Documents](#pdf--documents) (12)
-- [Self-Hosted & Automation](#self-hosted--automation) (9)
-- [News & RSS](#news--rss) (8)
-- [Bookmarks & Reading](#bookmarks--reading) (7)
-- [Weather](#weather) (5)
-- [Security & Passwords](#security--passwords) (3)
+- [Self-Hosted & Automation](#self-hosted--automation) (11)
+- [Security & Passwords](#security--passwords) (6)
 
 
 
@@ -94,7 +90,8 @@ Priority: Workspace > Local > Bundled
 <img width="1390" height="296" alt="social" src="https://github.com/user-attachments/assets/4c40affa-8e20-443a-9ec5-1abb6679b170" />
 </a>
 
-## Web & Frontend Development
+<details open>
+<summary><h3 style="display:inline">Web & Frontend Development</h3></summary>
 
 - [discord](https://github.com/moltbot/skills/tree/main/skills/steipete/discord/SKILL.md) - Use when you need to control Discord from Clawdbot via the discord tool: send messages, react.
 - [frontend-design](https://github.com/moltbot/skills/tree/main/skills/steipete/frontend-design/SKILL.md) - Create distinctive, production-grade frontend interfaces with high design quality.
@@ -111,7 +108,10 @@ Priority: Workspace > Local > Bundled
 - [vercel-react-best-practices](https://github.com/moltbot/skills/tree/main/skills/sharanga10/vercel-react-best-practices/SKILL.md) - React and Next.js performance optimization guidelines from Vercel Engineering.
 - [web-design-guidelines](https://github.com/moltbot/skills/tree/main/skills/sharanga10/web-design-guidelines/SKILL.md) - Review UI code for Web Interface Guidelines compliance.
 
-## Coding Agents & IDEs
+</details>
+
+<details open>
+<summary><h3 style="display:inline">Coding Agents & IDEs</h3></summary>
 
 - [agentlens](https://github.com/moltbot/skills/tree/main/skills/nguyenphutrong/agentlens/SKILL.md) - Navigate and understand codebases using agentlens hierarchical documentation.
 - [claude-team](https://github.com/moltbot/skills/tree/main/skills/jalehman/claude-team/SKILL.md) - Orchestrate multiple Claude Code workers via iTerm2 using the claude-team MCP server.
@@ -129,7 +129,10 @@ Priority: Workspace > Local > Bundled
 - [perry-workspaces](https://github.com/moltbot/skills/tree/main/skills/gricha/perry-workspaces/SKILL.md) - Create and manage isolated Docker workspaces on your tailnet with Claude Code.
 - [prompt-log](https://github.com/moltbot/skills/tree/main/skills/thesash/prompt-log/SKILL.md) - Extract conversation transcripts from AI coding session logs (Clawdbot, Claude Code, Codex).
 
-## Git & GitHub
+</details>
+
+<details open>
+<summary><h3 style="display:inline">Git & GitHub</h3></summary>
 
 - [conventional-commits](https://github.com/moltbot/skills/tree/main/skills/bastos/conventional-commits/SKILL.md) - Format commit messages using the Conventional Commits specification.
 - [deepwiki](https://github.com/moltbot/skills/tree/main/skills/arun-8687/deepwiki/SKILL.md) - Query the DeepWiki MCP server for GitHub repository documentation, wiki structure.
@@ -141,7 +144,10 @@ Priority: Workspace > Local > Bundled
 - [pr-commit-workflow](https://github.com/moltbot/skills/tree/main/skills/joshp123/pr-commit-workflow/SKILL.md) - This skill should be used when creating commits or pull requests.
 - [read-github](https://github.com/moltbot/skills/tree/main/skills/am-will/read-github/SKILL.md) - Read GitHub repos via gitmcp.io with semantic search and LLM-optimized output.
 
-## DevOps & Cloud
+</details>
+
+<details>
+<summary><h3 style="display:inline">DevOps & Cloud</h3></summary>
 
 - [Azure CLI](https://github.com/moltbot/skills/tree/main/skills/ddevaal/azure-cli/SKILL.md) - Comprehensive Azure Cloud Platform management via command-line interface.
 - [cloudflare](https://github.com/moltbot/skills/tree/main/skills/asleep123/wrangler/SKILL.md) - Manage Cloudflare Workers, KV, D1, R2, and secrets using the Wrangler CLI.
@@ -178,7 +184,18 @@ Priority: Workspace > Local > Bundled
 - [vercel-deploy](https://github.com/moltbot/skills/tree/main/skills/sharanga10/vercel-deploy-claimable/SKILL.md) - Deploy applications and websites to Vercel.
 - [pi-admin](https://github.com/moltbot/skills/tree/main/skills/thesethrose/pi-admin/SKILL.md) - Raspberry Pi system administration. Monitor resources, manage services, perform updates.
 
-## Browser & Automation
+- [k8s-skills](https://github.com/moltbot/skills/tree/main/skills/rohitg00) - 6 Kubernetes skills: autoscaling (HPA/VPA/KEDA), backup (Velero), multi-cluster, Cluster API, cert-manager, dashboard browser.
+- [kubernetes](https://github.com/moltbot/skills/tree/main/skills/kcns008/kubernetes/SKILL.md) - Comprehensive Kubernetes and OpenShift cluster management.
+- [flyio-cli](https://github.com/moltbot/skills/tree/main/skills/justinburdett/flyio-cli/SKILL.md) - Fly.io deploy, logs, SSH, secrets, scaling, and Postgres management.
+- [nomad](https://github.com/moltbot/skills/tree/main/skills/danfedick/nomad/SKILL.md) - Query HashiCorp Nomad clusters: jobs, nodes, allocations, services.
+- [pm2](https://github.com/moltbot/skills/tree/main/skills/asteinberger/pm2/SKILL.md) - Manage Node.js apps with PM2 process manager.
+- [cloudflare](https://github.com/moltbot/skills/tree/main/skills/dbhurley/cloudflare/SKILL.md) - Cloudflare CLI: DNS records, cache purge, Workers routes.
+- [tmux-agents](https://github.com/moltbot/skills/tree/main/skills/cuba6112/tmux-agents/SKILL.md) - Manage background coding agents in tmux sessions.
+
+</details>
+
+<details>
+<summary><h3 style="display:inline">Browser & Automation</h3></summary>
 
 - [Agent Browser](https://github.com/moltbot/skills/tree/main/skills/thesethrose/agent-browser/SKILL.md) - A fast Rust-based headless browser automation CLI with Node.js fallback that enables AI agents to.
 - [browsh](https://github.com/moltbot/skills/tree/main/skills/gumadeiras/browsh/SKILL.md) - A modern text-based browser. Renders web pages in the terminal using headless Firefox.
@@ -187,13 +204,15 @@ Priority: Workspace > Local > Bundled
 - [guru-mcp](https://github.com/moltbot/skills/tree/main/skills/pvoo/guru-mcp/SKILL.md) - Access Guru knowledge base via MCP - ask AI questions, search documents, create drafts.
 - [mcporter](https://github.com/moltbot/skills/tree/main/skills/steipete/mcporter/SKILL.md) - Use the mcporter CLI to list, configure, auth, and call MCP servers/tools directly (HTTP.
 - [verify-on-browser](https://github.com/moltbot/skills/tree/main/skills/myestery/verify-on-browser/SKILL.md) - Control browser via Chrome DevTools Protocol - full CDP access.
+- [playwright-cli](https://github.com/moltbot/skills/tree/main/skills/gumadeiras/playwright-cli/SKILL.md) - Browser automation via Playwright CLI for testing and scraping.
+- [tekin](https://github.com/moltbot/skills/tree/main/skills/gwqwghksvq-sketch/tekin/SKILL.md) - Rust-based headless browser CLI with Node.js fallback.
+- [agent-browser](https://github.com/moltbot/skills/tree/main/skills/murphykobe/agent-browser-2/SKILL.md) - Web testing, form filling, screenshots, data extraction.
+- [agent-zero](https://github.com/moltbot/skills/tree/main/skills/dowingard/agent-zero-bridge/SKILL.md) - Delegate tasks to Agent Zero autonomous coding framework.
 
+</details>
 
-## CAD & 3D Printing
-
-- [cad-agent](https://github.com/clawdbot/skills/tree/main/skills/clawd-maf/cad-agent/SKILL.md) - Rendering server for AI agents doing CAD work. Send build123d commands, receive rendered images, iterate visually. Supports 3D/2D renders, STL export, printability analysis.
-
-## Image & Video Generation
+<details>
+<summary><h3 style="display:inline">Image & Video Generation</h3></summary>
 
 - [clinkding](https://github.com/moltbot/skills/tree/main/skills/daveonkels/clinkding/SKILL.md) - Manage linkding bookmarks - save URLs, search, tag, organize.
 - [coloring-page](https://github.com/moltbot/skills/tree/main/skills/borahm/coloring-page/SKILL.md) - Turn an uploaded photo into a printable black-and-white coloring page.
@@ -205,8 +224,20 @@ Priority: Workspace > Local > Bundled
 - [vap-media](https://clawdhub.com/skills/vap-media) - AI image, video, and music generation via VAP API. Flux, Veo 3.1, Suno V5 with transparent pricing.
 - [veo](https://github.com/moltbot/skills/tree/main/skills/buddyh/veo/SKILL.md) - Generate video using Google Veo (Veo 3.1 / Veo 3.0).
 - [video-frames](https://github.com/moltbot/skills/tree/main/skills/steipete/video-frames/SKILL.md) - Extract frames or short clips from videos using ffmpeg.
+- [cad-agent](https://github.com/clawdbot/skills/tree/main/skills/clawd-maf/cad-agent/SKILL.md) - Rendering server for AI agents doing CAD work. Send build123d commands, receive rendered images.
+- [figma](https://github.com/moltbot/skills/tree/main/skills/maddiedreese/figma/SKILL.md) - Figma design analysis, asset export, accessibility audit.
+- [venice-ai](https://github.com/moltbot/skills/tree/main/skills/nhannah/venice-ai-media/SKILL.md) - Venice AI: image/video generation, upscaling, AI editing.
+- [pollinations](https://github.com/moltbot/skills/tree/main/skills/isaacgounton/pollinations/SKILL.md) - Pollinations.ai: text, images, videos, audio with 25+ models.
+- [reve-ai](https://github.com/moltbot/skills/tree/main/skills/dpaluy/reve-ai/SKILL.md) - Reve AI image generation, editing, and remixing.
+- [vap-media](https://github.com/moltbot/skills/tree/main/skills/elestirelbilinc-sketch/vap-media/SKILL.md) - AI media generation: Flux, Veo 3.1, Suno V5.
+- [gifhorse](https://github.com/moltbot/skills/tree/main/skills/coyote-git/gifhorse/SKILL.md) - Search video dialogue and create reaction GIFs with subtitles.
+- [superdesign](https://github.com/moltbot/skills/tree/main/skills/mpociot/superdesign/SKILL.md) - Expert frontend design guidelines for modern UIs.
+- [comfyui](https://github.com/moltbot/skills/tree/main/skills/xtopher86/comfyui-request/SKILL.md) - Send workflow requests to ComfyUI and get image results.
 
-## Apple Apps & Services
+</details>
+
+<details>
+<summary><h3 style="display:inline">Apple Apps & Services</h3></summary>
 
 - [apple-contacts](https://github.com/moltbot/skills/tree/main/skills/tyler6204/apple-contacts/SKILL.md) - Look up contacts from macOS Contacts.app.
 - [apple-music](https://github.com/moltbot/skills/tree/main/skills/tyler6204/apple-music/SKILL.md) - Search Apple Music, add songs to library, manage playlists, control playback and AirPlay.
@@ -218,10 +249,15 @@ Priority: Workspace > Local > Bundled
 - [media-backup](https://github.com/moltbot/skills/tree/main/skills/dbhurley/media-backup/SKILL.md) - Archive Clawdbot conversation media (photos, videos) to a local folder.
 - [mole-mac-cleanup](https://github.com/moltbot/skills/tree/main/skills/bjesuiter/mole-mac-cleanup/SKILL.md) - Mac cleanup & optimization tool combining CleanMyMac, AppCleaner, DaisyDisk features.
 - [shortcuts-generator](https://github.com/moltbot/skills/tree/main/skills/erik-agens/shortcuts-skill/SKILL.md) - Generate macOS/iOS Shortcuts by creating plist files.
+- [apple-remind-me](https://github.com/moltbot/skills/tree/main/skills/plgonzalezrx8/apple-remind-me/SKILL.md) - Natural language reminders via Apple Reminders.app.
+- [apple-mail-search](https://github.com/moltbot/skills/tree/main/skills/mneves75/apple-mail-search/SKILL.md) - Fast Apple Mail search via SQLite (~50ms vs 8+ min).
+- [alter-actions](https://github.com/moltbot/skills/tree/main/skills/olivieralter/alter-actions/SKILL.md) - Trigger 84+ Alter macOS app actions via x-callback-urls.
+- [voice-wake-say](https://github.com/moltbot/skills/tree/main/skills/xadenryan/voice-wake-say/SKILL.md) - Speak responses aloud on macOS via the say command.
 
+</details>
 
-
-## Search & Research
+<details>
+<summary><h3 style="display:inline">Search & Research</h3></summary>
 
 - [brave-search](https://github.com/moltbot/skills/tree/main/skills/steipete/brave-search/SKILL.md) - Web search and content extraction via Brave Search API.
 - [brightdata](https://github.com/moltbot/skills/tree/main/skills/meirkad/bright-data/SKILL.md) - Web scraping and search via Bright Data API.
@@ -235,8 +271,22 @@ Priority: Workspace > Local > Bundled
 - [tavily](https://github.com/moltbot/skills/tree/main/skills/arun-8687/tavily-search/SKILL.md) - AI-optimized web search via Tavily API. Returns concise, relevant results for AI agents.
 - [tweet-writer](https://github.com/moltbot/skills/tree/main/skills/sanky369/tweet-writer/SKILL.md) - Write viral, persuasive, engaging tweets and threads.
 - [web-search-plus](https://github.com/moltbot/skills/tree/main/skills/robbyczgw-cla/web-search-plus/SKILL.md) - Unified search skill with Intelligent Auto-Routing.
+- [seo-analytics](https://github.com/moltbot/skills/tree/main/skills/adamkristopher) - 3 SEO/analytics skills: DataForSEO keywords, GA4 + Search Console, YouTube analytics.
+- [last30days](https://github.com/moltbot/skills/tree/main/skills/zats/last30days/SKILL.md) - Research any topic from last 30 days on Reddit, X, and web.
+- [youtube-summarizer](https://github.com/moltbot/skills/tree/main/skills/abe238/youtube-summarizer/SKILL.md) - Fetch YouTube transcripts and generate structured summaries.
+- [gemini-yt-transcript](https://github.com/moltbot/skills/tree/main/skills/odrobnik/gemini-yt-video-transcript/SKILL.md) - YouTube transcript via Google Gemini with speaker labels.
+- [arxiv-watcher](https://github.com/moltbot/skills/tree/main/skills/rubenfb23/arxiv-watcher/SKILL.md) - Search and summarize papers from ArXiv.
+- [serpapi](https://github.com/moltbot/skills/tree/main/skills/ianpcook/serpapi/SKILL.md) - Unified search across Google, Amazon, Yelp, OpenTable, Walmart.
+- [grok-search](https://github.com/moltbot/skills/tree/main/skills/notabhay/grok-search/SKILL.md) - Search web or X/Twitter using xAI Grok.
+- [perplexity](https://github.com/moltbot/skills/tree/main/skills/dronnick/perplexity-bash/SKILL.md) - Perplexity API for web-grounded search with citations.
+- [parallel](https://github.com/moltbot/skills/tree/main/skills/pntrivedy/parallel-1-0-1/SKILL.md) - Parallel.ai web search optimized for AI agents.
+- [searxng](https://github.com/moltbot/skills/tree/main/skills/abk234/searxng/SKILL.md) - Privacy-respecting metasearch via local SearXNG instance.
+- [news-aggregator](https://github.com/moltbot/skills/tree/main/skills/cclank/news-aggregator-skill/SKILL.md) - News from 8 sources: Hacker News, GitHub Trending, Product Hunt, and more.
 
-## Clawdbot Tools
+</details>
+
+<details>
+<summary><h3 style="display:inline">Clawdbot Tools</h3></summary>
 
 - [agent-browser](https://github.com/moltbot/skills/tree/main/skills/matrixy/agent-browser-clawdbot/SKILL.md) - Headless browser automation CLI optimized for AI agents with accessibility tree snapshots.
 - [auto-updater](https://github.com/moltbot/skills/tree/main/skills/maximeprades/auto-updater/SKILL.md) - Automatically update Clawdbot and all installed skills once daily.
@@ -251,8 +301,15 @@ Priority: Workspace > Local > Bundled
 - [clawdlink](https://github.com/moltbot/skills/tree/main/skills/davemorin/clawdlink/SKILL.md) - Encrypted Clawdbot-to-Clawdbot messaging.
 - [skills-audit](https://github.com/moltbot/skills/tree/main/skills/morozred/skill-audit/SKILL.md) - Audit locally installed agent skills for security/policy issues.
 - [skills-search](https://github.com/moltbot/skills/tree/main/skills/thesethrose/skills-search/SKILL.md) - Search skills.sh registry from CLI. Find and discover agent skills from the skills.sh ecosystem.
+- [git-notes-memory](https://github.com/moltbot/skills/tree/main/skills/mourad-ghafiri/git-notes-memory/SKILL.md) - Git-notes based persistent memory across sessions.
+- [triple-memory](https://github.com/moltbot/skills/tree/main/skills/ktpriyatham/triple-memory/SKILL.md) - LanceDB + Git-Notes + file-based memory system.
+- [self-reflect](https://github.com/moltbot/skills/tree/main/skills/stevengonsalvez/self-reflect/SKILL.md) - Self-improvement through conversation analysis and learning.
+- [mcporter-skill](https://github.com/moltbot/skills/tree/main/skills/livvux/mcporter-skill/SKILL.md) - List, configure, auth, and call MCP servers/tools via mcporter CLI.
 
-## CLI Utilities
+</details>
+
+<details>
+<summary><h3 style="display:inline">CLI Utilities</h3></summary>
 
 - [bible](https://github.com/moltbot/skills/tree/main/skills/dbhurley/bible-votd/SKILL.md) - Get the Bible.com Verse of the Day with shareable image.
 - [camsnap](https://github.com/moltbot/skills/tree/main/skills/steipete/camsnap/SKILL.md) - Capture frames or clips from RTSP/ONVIF cameras.
@@ -291,8 +348,15 @@ Priority: Workspace > Local > Bundled
 - [units](https://github.com/moltbot/skills/tree/main/skills/asleep123/units/SKILL.md) - Perform unit conversions and calculations using GNU Units.
 - [voicenotes](https://github.com/moltbot/skills/tree/main/skills/shawnhansen/voicenotes/SKILL.md) - Sync and access voice notes from Voicenotes.com.
 - [xkcd](https://github.com/moltbot/skills/tree/main/skills/dbhurley/xkcd/SKILL.md) - Fetch xkcd comics - latest, random, by number, or search by keyword.
+- [ecto](https://github.com/moltbot/skills/tree/main/skills/visionik/ecto/SKILL.md) - Ghost.io blog management via Admin API.
+- [domain](https://github.com/moltbot/skills/tree/main/skills/abtdomain/domain/SKILL.md) - Domain intelligence: NRDS keyword search and NS reverse lookup.
+- [george](https://github.com/moltbot/skills/tree/main/skills/odrobnik/george/SKILL.md) - George online banking automation (Erste Bank / Sparkasse Austria).
+- [emredoganer-fizzy](https://github.com/moltbot/skills/tree/main/skills/emredoganer/emredoganer-fizzy-cli/SKILL.md) - Manage Fizzy Kanban boards and cards via CLI.
 
-## iOS & macOS Development
+</details>
+
+<details>
+<summary><h3 style="display:inline">iOS & macOS Development</h3></summary>
 
 - [apple-docs](https://github.com/moltbot/skills/tree/main/skills/thesethrose/apple-docs/SKILL.md) - Query Apple Developer Documentation, APIs, and WWDC videos (2014-2025).
 - [apple-docs-mcp](https://github.com/moltbot/skills/tree/main/skills/janhcla/apple-docs-mcp/SKILL.md) - apple-docs-mcp
@@ -308,8 +372,10 @@ Priority: Workspace > Local > Bundled
 - [swiftui-ui-patterns](https://github.com/moltbot/skills/tree/main/skills/dimillian/swiftui-ui-patterns/SKILL.md) - Best practices and example-driven guidance for building SwiftUI views and components.
 - [swiftui-view-refactor](https://github.com/moltbot/skills/tree/main/skills/steipete/swiftui-view-refactor/SKILL.md) - Refactor and review SwiftUI view files for consistent structure, dependency injection.
 
+</details>
 
-## Marketing & Sales
+<details>
+<summary><h3 style="display:inline">Marketing & Sales</h3></summary>
 
 - [ab-test-setup](https://github.com/moltbot/skills/tree/main/skills/jchopard69/marketing-skills/references/ab-test-setup/SKILL.md) - When the user wants to plan, design, or implement an A/B test or experiment.
 - [apollo](https://github.com/moltbot/skills/tree/main/skills/jhumanj/apollo/SKILL.md) - Interact with Apollo.io REST API (people/org enrichment, search, lists).
@@ -347,8 +413,17 @@ Priority: Workspace > Local > Bundled
 - [twenty-crm](https://github.com/moltbot/skills/tree/main/skills/jhumanj/twenty-crm/SKILL.md) - Interact with Twenty CRM (self-hosted) via REST/GraphQL.
 - [typefully](https://github.com/moltbot/skills/tree/main/skills/thesethrose/typefully/SKILL.md) - |.
 - [x-article-editor](https://github.com/moltbot/skills/tree/main/skills/jchopard69/x-article-editor/SKILL.md) - TL;DR: Turn a topic or draft into a high-engagement X Article. STEP 1 final copy/paste article.
+- [shashwatgtm-skills](https://github.com/moltbot/skills/tree/main/skills/shashwatgtm) - B2B marketing: competitive intelligence, content writing, newsletters, personal branding, social media management.
+- [sales-toolkit](https://github.com/moltbot/skills/tree/main/skills/andrewdmwalker) - Sales toolkit: Apollo.io enrichment, Attio CRM, PhantomBuster automation, Firecrawl web scraping.
+- [octolens](https://github.com/moltbot/skills/tree/main/skills/garrrikkotua/octolens/SKILL.md) - Brand mention tracking across Twitter, Reddit, GitHub, LinkedIn with sentiment analysis.
+- [geo-optimization](https://github.com/moltbot/skills/tree/main/skills/andrewdmwalker/geo-optimization/SKILL.md) - Optimize content for AI search visibility (ChatGPT, Perplexity, Claude).
+- [recruitment-automation](https://github.com/moltbot/skills/tree/main/skills/seyhunak/recruitment-automation/SKILL.md) - Automated recruitment: job specs, candidate evaluation, outreach emails.
+- [late-api](https://github.com/moltbot/skills/tree/main/skills/mikipalet/late-api/SKILL.md) - Late API for scheduling posts across 13 social media platforms.
 
-## Productivity & Tasks
+</details>
+
+<details>
+<summary><h3 style="display:inline">Productivity & Tasks</h3></summary>
 
 - [clawd-docs-v2](https://github.com/moltbot/skills/tree/main/skills/aranej/clawd-docs-v2/SKILL.md) - Smart ClawdBot documentation access with local search index, cached snippets, and on-demand fetch.
 - [clickup-mcp](https://github.com/moltbot/skills/tree/main/skills/pvoo/clickup-mcp/SKILL.md) - Manage ClickUp tasks, docs, time tracking, comments, chat, and search via official MCP.
@@ -378,8 +453,24 @@ Priority: Workspace > Local > Bundled
 - [vikunja-fast](https://github.com/moltbot/skills/tree/main/skills/tmigone/vikunja-fast/SKILL.md) - Manage Vikunja projects and tasks (overdue/due/today), mark done.
 - [web-perf](https://github.com/moltbot/skills/tree/main/skills/elithrar/web-perf/SKILL.md) - Analyzes web performance using Chrome DevTools MCP.
 - [withings-health](https://github.com/moltbot/skills/tree/main/skills/hisxo/withings-health/SKILL.md) - Fetches health data from the Withings API including weight, body composition (fat, muscle, bone.
+- [outlook](https://github.com/moltbot/skills/tree/main/skills/jotamed/outlook/SKILL.md) - Outlook email and calendar via Microsoft Graph API.
+- [imap-email](https://github.com/moltbot/skills/tree/main/skills/mvarrieur/imap-email/SKILL.md) - Read and manage email via IMAP (ProtonMail, Gmail, etc.).
+- [google-workspace](https://github.com/moltbot/skills/tree/main/skills/dru-ca/google-workspace-mcp/SKILL.md) - Gmail, Calendar, Drive with simple OAuth sign-in.
+- [gogcli](https://github.com/moltbot/skills/tree/main/skills/luccast/gogcli/SKILL.md) - Google Workspace CLI: Gmail, Calendar, Drive, Sheets, Docs, Slides.
+- [ticktick](https://github.com/moltbot/skills/tree/main/skills/kaiofreitas/ticktick-tasks/SKILL.md) - TickTick task manager: projects, tasks, reminders.
+- [omnifocus](https://github.com/moltbot/skills/tree/main/skills/coyote-git/omnifocus-automation/SKILL.md) - OmniFocus tasks, projects, and GTD workflows via Omni Automation.
+- [todoist](https://github.com/moltbot/skills/tree/main/skills/2mawi2/todoist-task-manager/SKILL.md) - Todoist CLI: list, add, modify, complete, delete tasks.
+- [taskleef](https://github.com/moltbot/skills/tree/main/skills/xatter/taskleef/SKILL.md) - Taskleef.com todos, projects, and kanban boards.
+- [linear-issues](https://github.com/moltbot/skills/tree/main/skills/emrekilinc/linear-issues/SKILL.md) - Linear issue tracking: create, update, list, search issues.
+- [jira](https://github.com/moltbot/skills/tree/main/skills/kyjus25/clawdbot-jira-skill/SKILL.md) - Jira issues, transitions, and worklogs via REST API.
+- [atlassian-mcp](https://github.com/moltbot/skills/tree/main/skills/atakanermis/atlassian-mcp/SKILL.md) - Atlassian MCP: Jira and Confluence integration via Docker.
+- [asana](https://github.com/moltbot/skills/tree/main/skills/k0nkupa/asana/SKILL.md) - Asana tasks, projects, and workspaces via REST API.
+- [mogcli](https://github.com/moltbot/skills/tree/main/skills/visionik/mogcli/SKILL.md) - Microsoft 365 CLI: Mail, Calendar, Drive, Word, Excel, OneNote.
 
-## AI & LLMs
+</details>
+
+<details>
+<summary><h3 style="display:inline">AI & LLMs</h3></summary>
 
 - [antigravity-quota](https://github.com/moltbot/skills/tree/main/skills/mukhtharcm/antigravity-quota/SKILL.md) - Check Antigravity account quotas for Claude and Gemini models.
 - [ask-questions-if-underspecified](https://github.com/moltbot/skills/tree/main/skills/lc0rp/ask-questions-if-underspecified/SKILL.md) - Clarify requirements before implementing. Do not use automatically, only when invoked explicitly.
@@ -411,41 +502,54 @@ Priority: Workspace > Local > Bundled
 - [smart-followups](https://github.com/moltbot/skills/tree/main/skills/robbyczgw-cla/smart-followups/SKILL.md) - Generate contextual follow-up suggestions after AI responses.
 - [xai](https://github.com/moltbot/skills/tree/main/skills/mvanhorn/xai/SKILL.md) - Chat with Grok models via xAI API. Supports Grok-3, Grok-3-mini, vision, and more.
 - [manus](https://github.com/moltbot/skills/tree/main/skills/mvanhorn/manus/SKILL.md) - Create and manage AI agent tasks via Manus API.
+- [hokipoki](https://github.com/moltbot/skills/tree/main/skills/budjoskop/hokipoki/SKILL.md) - Switch between Claude, Codex, and Gemini when one gets stuck.
+- [council-of-the-wise](https://github.com/moltbot/skills/tree/main/skills/jeffaf/council-of-the-wise/SKILL.md) - Multi-perspective feedback from spawned sub-agent personas.
+- [multi-viewpoint-debates](https://github.com/moltbot/skills/tree/main/skills/latentfreedom/multi-viewpoint-debates/SKILL.md) - Debate decisions from multiple worldviews to expose blind spots.
+- [chaos-lab](https://github.com/moltbot/skills/tree/main/skills/jbbottoms/chaos-lab/SKILL.md) - AI alignment exploration through conflicting optimization targets.
+- [ralph-loop](https://github.com/moltbot/skills/tree/main/skills/jordyvandomselaar/ralph-loop/SKILL.md) - Generate bash scripts for AI agent loops (Codex, Claude, OpenCode).
+- [research-tracker](https://github.com/moltbot/skills/tree/main/skills/julian1645/research-tracker/SKILL.md) - Manage autonomous AI research agents with SQLite tracking.
+- [claude-code-wingman](https://github.com/moltbot/skills/tree/main/skills/yossiovadia/claude-code-wingman/SKILL.md) - Run Claude Code as a skill, control from WhatsApp.
+- [adversarial-prompting](https://github.com/moltbot/skills/tree/main/skills/abe238/adversarial-prompting/SKILL.md) - Adversarial analysis to critique, fix, and consolidate solutions.
 
-## Finance & Crypto
+</details>
+
+<details>
+<summary><h3 style="display:inline">Finance</h3></summary>
 
 - [analytics-tracking](https://github.com/moltbot/skills/tree/main/skills/jchopard69/marketing-skills/references/analytics-tracking/SKILL.md) - When the user wants to set up, improve, or audit analytics tracking and measurement.
 - [api-credentials-hygiene](https://github.com/moltbot/skills/tree/main/skills/kowl64/api-credentials-hygiene/SKILL.md) - Audits and hardens API credential handling (env vars, separation, rotation plan, least privilege.
 - [app-store-changelog](https://github.com/moltbot/skills/tree/main/skills/dimillian/app-store-changelog/SKILL.md) - Create user-facing App Store release notes by collecting.
-- [blockchain_attestation](https://github.com/moltbot/skills/tree/main/skills/dbhurley/blockchain-attestation/SKILL.md) - Create verifiable attestations of agent work using Ethereum Attestation Service (EAS)
 - [clawdbot-release-check](https://github.com/moltbot/skills/tree/main/skills/pors/clawdbot-release-check/SKILL.md) - Check for new clawdbot releases and notify once per new version.
 - [copilot-money](https://github.com/moltbot/skills/tree/main/skills/jayhickey/copilot-money/SKILL.md) - Query Copilot Money personal finance data (accounts, transactions, net worth, holdings.
 - [create-content](https://github.com/moltbot/skills/tree/main/skills/itsflow/create-content/SKILL.md) - Thinking partner that transforms ideas into platform-optimized content.
-- [crypto-price](https://github.com/moltbot/skills/tree/main/skills/evgyur/crypto-price/SKILL.md) - Get cryptocurrency token price and generate candlestick charts via CoinGecko API.
-- [crypto-tracker](https://github.com/moltbot/skills/tree/main/skills/dbhurley/crypto-tracker/SKILL.md) - Track crypto prices, set alerts, and search coins via CoinGecko API.
 - [harvey](https://github.com/moltbot/skills/tree/main/skills/udiedrichsen/harvey/SKILL.md) - Harvey is an imaginary friend and conversation companion.
 - [ibkr-trading](https://github.com/moltbot/skills/tree/main/skills/flokiew/ibkr-trader/SKILL.md) - Interactive Brokers (IBKR) trading automation via Client Portal API.
 - [idea](https://github.com/moltbot/skills/tree/main/skills/andrewjiang/idea/SKILL.md) - Launch background Claude sessions to explore and analyze business ideas.
 - [just-fucking-cancel](https://github.com/moltbot/skills/tree/main/skills/chipagosfinest/just-fucking-cancel/SKILL.md) - Analyze bank transaction CSVs to find recurring charges, categorize subscriptions.
-- [kraken](https://github.com/moltbot/skills/tree/main/skills/thesethrose/kraken/SKILL.md) - kraken
 - [launch-strategy](https://github.com/moltbot/skills/tree/main/skills/jchopard69/marketing-skills/references/launch-strategy/SKILL.md) - When the user wants to plan a product launch, feature announcement, or release strategy.
 - [marketing-ideas](https://github.com/moltbot/skills/tree/main/skills/jchopard69/marketing-skills/references/marketing-ideas/SKILL.md) - When the user needs marketing ideas, inspiration, or strategies for their SaaS or software product.
 - [nordpool-fi](https://github.com/moltbot/skills/tree/main/skills/ovaris/nordpool-fi/SKILL.md) - Hourly electricity prices for Finland with optimal EV charging window calculation (3h, 4h, 5h).
 - [openssl](https://github.com/moltbot/skills/tree/main/skills/asleep123/openssl/SKILL.md) - Generate secure random strings, passwords, and cryptographic tokens using OpenSSL.
 - [page-cro](https://github.com/moltbot/skills/tree/main/skills/jchopard69/marketing-skills/references/page-cro/SKILL.md) - When the user wants to optimize, improve, or increase conversions on any marketing page — including.
 - [plaid](https://github.com/moltbot/skills/tree/main/skills/jverdi/plaid/SKILL.md) - plaid-cli a cli for interacting with the plaid finance platform.
-- [polymarket](https://github.com/moltbot/skills/tree/main/skills/mvanhorn/polymarket/SKILL.md) - Query Polymarket prediction markets - check odds, trending markets, search events, track prices.
-- [portfolio-watcher](https://github.com/moltbot/skills/tree/main/skills/jhillin8/portfolio-watcher/SKILL.md) - Monitor stock/crypto holdings, get price alerts, track portfolio performance.
 - [publisher](https://github.com/moltbot/skills/tree/main/skills/tunaissacoding/publisher/SKILL.md) - Make your skills easy to understand and impossible to ignore.
 - [relationship-skills](https://github.com/moltbot/skills/tree/main/skills/jhillin8/relationship-skills/SKILL.md) - Improve relationships with communication tools, conflict resolution, and connection ideas.
-- [solana-swaps](https://github.com/moltbot/skills/tree/main/skills/imthatcarlos/solana-swaps/SKILL.md) - Swap tokens on Solana via Jupiter aggregator and check wallet balances.
 - [solo-cli](https://github.com/moltbot/skills/tree/main/skills/rursache/solo-cli/SKILL.md) - Monitor and interact with SOLO.ro accounting platform via CLI.
-- [stock-analysis](https://github.com/moltbot/skills/tree/main/skills/udiedrichsen/stock-analysis/SKILL.md) - Analyze stocks and cryptocurrencies using Yahoo Finance data.
 - [swissweather](https://github.com/moltbot/skills/tree/main/skills/xenofex7/swissweather/SKILL.md) - Get current weather and forecasts from MeteoSwiss (official Swiss weather service).
 - [yahoo-finance](https://github.com/moltbot/skills/tree/main/skills/ajanraj/yahoo-finance/SKILL.md) - Get stock prices, quotes, fundamentals, earnings, options, dividends.
 - [ynab](https://github.com/moltbot/skills/tree/main/skills/obviyus/ynab/SKILL.md) - Manage YNAB budgets, accounts, categories, and transactions via CLI.
+- [monarch-money](https://github.com/moltbot/skills/tree/main/skills/davideasaf/monarch-money/SKILL.md) - Monarch Money budget management and transaction tracking.
+- [tax-professional](https://github.com/moltbot/skills/tree/main/skills/scottfo/tax-professional/SKILL.md) - US tax advisor, deduction optimizer, and expense tracker.
+- [card-optimizer](https://github.com/moltbot/skills/tree/main/skills/scottfo/card-optimizer/SKILL.md) - Credit card rewards optimizer for cashback, points, and miles.
+- [watch-my-money](https://github.com/moltbot/skills/tree/main/skills/andreolf/watch-my-money/SKILL.md) - Analyze bank transactions, categorize spending, track budgets.
+- [refund-radar](https://github.com/moltbot/skills/tree/main/skills/andreolf/refund-radar/SKILL.md) - Scan bank statements for recurring charges and draft refund requests.
+- [expense-tracker-pro](https://github.com/moltbot/skills/tree/main/skills/jhillin8/expense-tracker-pro/SKILL.md) - Track expenses via natural language with budget summaries.
+- [financial-market-analysis](https://github.com/moltbot/skills/tree/main/skills/seyhunak/financial-market-analysis/SKILL.md) - Stock and market sentiment analysis via Yahoo Finance.
 
-## Media & Streaming
+</details>
+
+<details>
+<summary><h3 style="display:inline">Media & Streaming</h3></summary>
 
 - [apple-media](https://github.com/moltbot/skills/tree/main/skills/aaronn/apple-media/SKILL.md) - Control Apple TV, HomePod, and AirPlay devices via pyatv (scan, stream, playback, volume.
 - [blucli](https://github.com/moltbot/skills/tree/main/skills/steipete/blucli/SKILL.md) - BluOS CLI (blu) for discovery, playback, grouping, and volume.
@@ -474,8 +578,13 @@ Priority: Workspace > Local > Bundled
 - [video-transcript-downloader](https://github.com/moltbot/skills/tree/main/skills/steipete/video-transcript-downloader/SKILL.md) - Download videos, audio, subtitles, and clean paragraph-style transcripts from YouTube.
 - [youtube-instant-article](https://github.com/moltbot/skills/tree/main/skills/viticci/youtube-instant-article/SKILL.md) - Transform YouTube videos into Telegraph Instant View articles with visual slides.
 - [youtube-watcher](https://github.com/moltbot/skills/tree/main/skills/michaelgathara/youtube-watcher/SKILL.md) - Fetch and read transcripts from YouTube videos.
+- [ytmusic](https://github.com/moltbot/skills/tree/main/skills/gentrycopsy/ytmusic/SKILL.md) - YouTube Music library, playlists, and discovery.
+- [apple-music](https://github.com/moltbot/skills/tree/main/skills/epheterson/mcp-applemusic/SKILL.md) - Apple Music integration via AppleScript or MusicKit API.
 
-## Notes & PKM
+</details>
+
+<details>
+<summary><h3 style="display:inline">Notes & PKM</h3></summary>
 
 - [apple-mail](https://github.com/moltbot/skills/tree/main/skills/tyler6204/apple-mail/SKILL.md) - Apple Mail.app integration for macOS. Read inbox, search emails, send emails, reply.
 - [apple-notes](https://github.com/moltbot/skills/tree/main/skills/steipete/apple-notes/SKILL.md) - Manage Apple Notes via the `memo` CLI on macOS (create, view, edit, delete, search, move.
@@ -501,8 +610,31 @@ Priority: Workspace > Local > Bundled
 - [shared-memory](https://github.com/moltbot/skills/tree/main/skills/christinetyip/shared-memory/SKILL.md) - Share memories and state with other users.
 - [skillcraft](https://github.com/moltbot/skills/tree/main/skills/jmz1/skillcraft/SKILL.md) - Create, design, and package Clawdbot skills.
 - [sports-ticker](https://github.com/moltbot/skills/tree/main/skills/robbyczgw-cla/sports-ticker/SKILL.md) - Live sports alerts for Soccer, NFL, NBA, NHL, MLB, F1 and more.
+- [reflect](https://github.com/moltbot/skills/tree/main/skills/sergical/reflect/SKILL.md) - Append to daily notes and create notes in Reflect app.
+- [notion-api](https://github.com/moltbot/skills/tree/main/skills/timenotspace/notion-api/SKILL.md) - Notion API CLI: search, query databases, create pages.
+- [granola](https://github.com/moltbot/skills/tree/main/skills/scald/granola/SKILL.md) - Access Granola meeting transcripts and notes.
+- [fabric-api](https://github.com/moltbot/skills/tree/main/skills/tristanmanchester/fabric-api/SKILL.md) - Create/search Fabric resources via HTTP API (notepads, folders, bookmarks, files).
+- [instapaper](https://github.com/moltbot/skills/tree/main/skills/vburojevic/instapaper/SKILL.md) - Use when operating the instapaper-cli (ip) tool or troubleshooting it: authenticating.
+- [karakeep](https://github.com/moltbot/skills/tree/main/skills/jayphen/karakeep/SKILL.md) - Manage bookmarks and links in a Karakeep instance.
+- [linkding](https://github.com/moltbot/skills/tree/main/skills/jmagar/linkding/SKILL.md) - Manage bookmarks with Linkding. Use when the user asks to "save a bookmark", "add link".
+- [readeck](https://github.com/moltbot/skills/tree/main/skills/jayphen/readeck/SKILL.md) - Readeck integration for saving and managing articles.
+- [readwise](https://github.com/moltbot/skills/tree/main/skills/refrigerator/readwise/SKILL.md) - Access Readwise highlights and Reader saved articles.
+- [twitter-bookmark-sync](https://github.com/moltbot/skills/tree/main/skills/tunaissacoding/twitter-bookmark-sync/SKILL.md) - Automatically ranks your Twitter bookmarks daily and delivers a curated reading list.
+- [raindrop](https://github.com/moltbot/skills/tree/main/skills/velvet-shark/raindrop/SKILL.md) - Raindrop.io bookmarks: search, list, add, organize with tags.
+- [substack-formatter](https://github.com/moltbot/skills/tree/main/skills/maddiedreese/substack-formatter/SKILL.md) - Transform text into Substack article format with HTML formatting.
+- [bbc-news](https://github.com/moltbot/skills/tree/main/skills/ddrayne/bbc-news/SKILL.md) - Fetch and display BBC News stories from various sections and regions via RSS feeds.
+- [blogwatcher](https://github.com/moltbot/skills/tree/main/skills/steipete/blogwatcher/SKILL.md) - Monitor blogs and RSS/Atom feeds for updates using the blogwatcher CLI.
+- [hn](https://github.com/moltbot/skills/tree/main/skills/dbhurley/hn/SKILL.md) - Browse Hacker News - top stories, new, best, ask, show, jobs, and story details with comments.
+- [hn-digest](https://github.com/moltbot/skills/tree/main/skills/cpojer/hn-digest/SKILL.md) - Fetch and send Hacker News front-page posts on demand.
+- [miniflux](https://github.com/moltbot/skills/tree/main/skills/shekohex/miniflux/SKILL.md) - Browse, read, and manage Miniflux feed articles.
+- [news-summary](https://github.com/moltbot/skills/tree/main/skills/joargp/news-summary/SKILL.md) - This skill should be used when the user asks for news updates, daily briefings.
+- [newsletter-digest](https://github.com/moltbot/skills/tree/main/skills/jhillin8/newsletter-digest/SKILL.md) - Summarize newsletters and articles, extract key insights, create reading lists.
+- [orf-digest](https://github.com/moltbot/skills/tree/main/skills/cpojer/orf/SKILL.md) - On-demand ORF news digest in German. Use when the user says 'orf', 'pull orf', or 'orf 10'.
 
-## Transportation
+</details>
+
+<details>
+<summary><h3 style="display:inline">Transportation</h3></summary>
 
 - [anachb](https://github.com/moltbot/skills/tree/main/skills/manmal/a-nach-b/SKILL.md) - Austrian public transport (VOR AnachB) for all of Austria.
 - [charger](https://github.com/moltbot/skills/tree/main/skills/borahm/charger/SKILL.md) - Check EV charger availability (favorites, nearby search) via Google Places.
@@ -528,8 +660,21 @@ Priority: Workspace > Local > Bundled
 - [trimet](https://github.com/moltbot/skills/tree/main/skills/mjrussell/trimet/SKILL.md) - Get Portland transit information including arrivals, trip planning, and alerts.
 - [virus-monitor](https://github.com/moltbot/skills/tree/main/skills/pasogott/virus-monitor/SKILL.md) - Virus-Monitoring für Wien (Abwasser + Sentinel).
 - [wienerlinien](https://github.com/moltbot/skills/tree/main/skills/hjanuschka/wienerlinien/SKILL.md) - Vienna public transport (Wiener Linien) real-time data.
+- [uk-trains](https://github.com/moltbot/skills/tree/main/skills/jabbslad/uk-trains/SKILL.md) - UK National Rail departures, arrivals, delays, platforms.
+- [trein](https://github.com/moltbot/skills/tree/main/skills/joehoel/trein/SKILL.md) - Dutch Railways (NS) departures, trips, disruptions.
+- [bahn](https://github.com/moltbot/skills/tree/main/skills/tobiasbischoff/bahn/SKILL.md) - Deutsche Bahn train connections and travel planning.
+- [railil](https://github.com/moltbot/skills/tree/main/skills/lirantal/skill-railil/SKILL.md) - Israel Rail train schedules with fuzzy station search.
+- [wheels-router](https://github.com/moltbot/skills/tree/main/skills/anscg/wheels-router/SKILL.md) - Public transit planning globally via Transitous.
+- [flight-tracker](https://github.com/moltbot/skills/tree/main/skills/copey02/aviationstack-flight-tracker/SKILL.md) - Real-time flight tracking with gate info and delays.
+- [aviation-weather](https://github.com/moltbot/skills/tree/main/skills/dimitryvin/aviation-weather/SKILL.md) - Aviation weather: METAR, TAF, PIREPs for flight planning.
+- [travel-concierge](https://github.com/moltbot/skills/tree/main/skills/arein/travel-concierge/SKILL.md) - Find contact details for Airbnb, Booking.com, VRBO listings.
+- [surfline](https://github.com/moltbot/skills/tree/main/skills/miguelcarranza/surfline/SKILL.md) - Surf forecasts and conditions from Surfline.
+- [mechanic](https://github.com/moltbot/skills/tree/main/skills/scottfo/mechanic/SKILL.md) - Vehicle maintenance tracker with service intervals and recalls.
 
-## Personal Development
+</details>
+
+<details>
+<summary><h3 style="display:inline">Personal Development</h3></summary>
 
 - [daily-review](https://github.com/moltbot/skills/tree/main/skills/henrino3/daily-review/SKILL.md) - Comprehensive daily performance review with communication tracking, meeting analysis.
 - [drivers-hours-wtd-infringement-coach-uk](https://github.com/moltbot/skills/tree/main/skills/kowl64/drivers-hours-wtd-infringement-coach-uk/SKILL.md) - Creates a 1-page driver-facing tacho/WTD infringement note plus corrective actions and review date.
@@ -552,8 +697,17 @@ Priority: Workspace > Local > Bundled
 - [study-habits](https://github.com/moltbot/skills/tree/main/skills/jhillin8/study-habits/SKILL.md) - Build effective study habits with spaced repetition, active recall, and session tracking.
 - [therapy-mode](https://github.com/moltbot/skills/tree/main/skills/thesethrose/therapy-mode/SKILL.md) - Comprehensive AI-assisted therapeutic support framework.
 - [weekly-synthesis](https://github.com/moltbot/skills/tree/main/skills/itsflow/weekly-synthesis/SKILL.md) - Create a comprehensive synthesis of the week's work and thinking.
+- [wellness-skills](https://github.com/moltbot/skills/tree/main/skills/jhillin8) - 12 wellness skills: anxiety relief, meditation, habit tracking, fasting, gratitude, discipline, motivation, and more.
+- [thinking-frameworks](https://github.com/moltbot/skills/tree/main/skills/artyomx33) - 6 thinking frameworks: first principles, inversion, JTBD, pre-mortem, cross-pollination, reasoning personas.
+- [adhd-body-doubling](https://github.com/moltbot/skills/tree/main/skills/jankutschera/adhd-body-doubling/SKILL.md) - Punk-style ADHD body doubling for founders with focus sessions.
+- [fix-life-in-1-day](https://github.com/moltbot/skills/tree/main/skills/evgyur/fix-life-in-1-day/SKILL.md) - 10 psychological sessions based on Dan Koe's method.
+- [daily-review-ritual](https://github.com/moltbot/skills/tree/main/skills/itsflow/daily-review-ritual/SKILL.md) - End-of-day review to capture progress and plan tomorrow.
+- [whatdo](https://github.com/moltbot/skills/tree/main/skills/scottfo/whatdo/SKILL.md) - Activity discovery with weather, movie times, streaming, and group profiles.
 
-## Health & Fitness
+</details>
+
+<details>
+<summary><h3 style="display:inline">Health & Fitness</h3></summary>
 
 - [coach](https://github.com/moltbot/skills/tree/main/skills/shiv19/clawd-coach/SKILL.md) - Create personalized triathlon, marathon, and ultra-endurance training plans.
 - [endurance-coach](https://github.com/moltbot/skills/tree/main/skills/shiv19/endurance-coach/SKILL.md) - Create personalized triathlon, marathon, and ultra-endurance training plans.
@@ -575,8 +729,17 @@ Priority: Workspace > Local > Bundled
 - [whoopskill](https://github.com/moltbot/skills/tree/main/skills/koala73/whoopskill/SKILL.md) - WHOOP CLI with health insights, trends analysis, and data fetching (sleep, recovery, HRV, strain).
 - [workout](https://github.com/moltbot/skills/tree/main/skills/gricha/workout/SKILL.md) - Track workouts, log sets, manage exercises and templates with workout-cli.
 - [workout-logger](https://github.com/moltbot/skills/tree/main/skills/jhillin8/workout-logger/SKILL.md) - Log workouts, track progress, get exercise suggestions and PR tracking.
+- [garmin-health](https://github.com/moltbot/skills/tree/main/skills/eversonl/garmin-health-analysis/SKILL.md) - Garmin data: sleep, HRV, VO2 max, Body Battery, training readiness.
+- [whoop-health](https://github.com/moltbot/skills/tree/main/skills/rodrigouroz/whoop-health-analysis/SKILL.md) - Whoop health data with interactive charts and visualizations.
+- [oura-ring](https://github.com/moltbot/skills/tree/main/skills/sameerbajaj/oura-ring-skill/SKILL.md) - Oura Ring readiness, sleep scores, and 7-day trends.
+- [strava-cycling](https://github.com/moltbot/skills/tree/main/skills/ericrosenberg/strava-cycling-coach/SKILL.md) - Strava cycling performance analysis and coaching insights.
+- [who-growth-charts](https://github.com/moltbot/skills/tree/main/skills/odrobnik/who-growth-charts/SKILL.md) - WHO child growth charts with percentile curves.
+- [intervals-icu](https://github.com/moltbot/skills/tree/main/skills/pseuss/intervals-icu-api/SKILL.md) - Intervals.icu training data: activities, workouts, wellness.
 
-## Communication
+</details>
+
+<details>
+<summary><h3 style="display:inline">Communication</h3></summary>
 
 - [apple-mail-search](https://github.com/moltbot/skills/tree/main/skills/gumadeiras/apple-mail-search-safe/SKILL.md) - Fast & safe Apple Mail search with body content support.
 - [beeper](https://github.com/moltbot/skills/tree/main/skills/krausefx/beeper/SKILL.md) - Search and browse local Beeper chat history (threads, messages, full-text search).
@@ -596,8 +759,19 @@ Priority: Workspace > Local > Bundled
 - [wacli](https://github.com/moltbot/skills/tree/main/skills/steipete/wacli/SKILL.md) - Send WhatsApp messages to other people or search/sync WhatsApp history.
 - [webchat-audio-notifications](https://clawdhub.com/brokemac79/webchat-audio-notifications) - Browser audio notifications for webchat with 5 intensity levels, custom sounds, and smart tab detection.
 - [whatsapp-video-mockup](https://github.com/moltbot/skills/tree/main/skills/danpeg/whatsapp-video-mockup/SKILL.md) - whatsapp-video-mockup
+- [postiz](https://github.com/moltbot/skills/tree/main/skills/nevo-david/postiz/SKILL.md) - Schedule posts to 28+ channels: X, LinkedIn, Reddit, Instagram, TikTok, and more.
+- [walkie-talkie](https://github.com/moltbot/skills/tree/main/skills/rubenfb23/walkie-talkie/SKILL.md) - WhatsApp voice conversations: transcribe audio, respond with TTS.
+- [claw-me-maybe](https://github.com/moltbot/skills/tree/main/skills/nickhamze/claw-me-maybe/SKILL.md) - Beeper integration: WhatsApp, Telegram, Signal, Discord, Slack, iMessage, LinkedIn.
+- [tootbot](https://github.com/moltbot/skills/tree/main/skills/behrangsa/tootbot/SKILL.md) - Publish content to Mastodon.
+- [upload-post](https://github.com/moltbot/skills/tree/main/skills/victorcavero14/upload-post/SKILL.md) - Upload to TikTok, Instagram, YouTube, LinkedIn, Facebook, X, and more.
+- [gram](https://github.com/moltbot/skills/tree/main/skills/arein/gram/SKILL.md) - Instagram CLI: feeds, posts, profiles, engagement.
+- [reddit-cli](https://github.com/moltbot/skills/tree/main/skills/kelsia14/reddit-cli/SKILL.md) - Reddit CLI for browsing posts and subreddits.
+- [discord-voice](https://github.com/moltbot/skills/tree/main/skills/avatarneil/discord-voice/SKILL.md) - Real-time voice conversations in Discord with Claude AI.
 
-## Speech & Transcription
+</details>
+
+<details>
+<summary><h3 style="display:inline">Speech & Transcription</h3></summary>
 
 - [assemblyai-transcribe](https://github.com/moltbot/skills/tree/main/skills/tristanmanchester/assemblyai-transcribe/SKILL.md) - Transcribe audio/video with AssemblyAI (local upload.
 - [audio-gen](https://github.com/moltbot/skills/tree/main/skills/udiedrichsen/audio-gen/SKILL.md) - Generate audiobooks, podcasts, or educational audio content on demand.
@@ -616,8 +790,15 @@ Priority: Workspace > Local > Bundled
 - [tts-whatsapp](https://github.com/moltbot/skills/tree/main/skills/hopyky/tts-whatsapp/SKILL.md) - Send high-quality text-to-speech voice messages on WhatsApp in 40+ languages with automatic delivery.
 - [video-subtitles](https://github.com/moltbot/skills/tree/main/skills/ngutman/video-subtitles/SKILL.md) - Generate SRT subtitles from video/audio with translation support.
 - [voice-transcribe](https://github.com/moltbot/skills/tree/main/skills/darinkishore/voice-transcribe/SKILL.md) - Transcribe audio files using OpenAI's gpt-4o-mini-transcribe model with vocabulary hints.
+- [elevenlabs-voices](https://github.com/moltbot/skills/tree/main/skills/robbyczgw-cla/elevenlabs-voices/SKILL.md) - ElevenLabs voice synthesis: 18 personas, 32 languages, sound effects.
+- [elevenlabs-media](https://github.com/moltbot/skills/tree/main/skills/clawdbotborges) - ElevenLabs music generation and speech-to-text (Scribe v2).
+- [elevenlabs-agents](https://github.com/moltbot/skills/tree/main/skills/pennyroyaltea/elevenlabs-agents/SKILL.md) - Create and manage ElevenLabs conversational AI agents.
+- [tts](https://github.com/moltbot/skills/tree/main/skills/amstko/tts/SKILL.md) - Text-to-speech using Hume AI or OpenAI API.
 
-## Smart Home & IoT
+</details>
+
+<details>
+<summary><h3 style="display:inline">Smart Home & IoT</h3></summary>
 
 - [anova-oven](https://github.com/moltbot/skills/tree/main/skills/dodeja/anova-skill/SKILL.md) - Control Anova Precision Ovens and Precision Cookers (sous vide) via WiFi WebSocket API.
 - [bambu-cli](https://github.com/moltbot/skills/tree/main/skills/tobiasbischoff/bambu-cli/SKILL.md) - Operate and troubleshoot BambuLab printers with the bambu-cli (status/watch.
@@ -635,8 +816,26 @@ Priority: Workspace > Local > Bundled
 - [pihole](https://github.com/moltbot/skills/tree/main/skills/baanish/pihole/SKILL.md) - pihole
 - [printer](https://github.com/moltbot/skills/tree/main/skills/dhvanilpatel/printer/SKILL.md) - Manage printers via CUPS on macOS (discover, add, print, queue, status, wake).
 - [voicemonkey](https://github.com/moltbot/skills/tree/main/skills/jayakumark/voicemonkey/SKILL.md) - Control Alexa devices via VoiceMonkey API v2 - make announcements, trigger routines, start flows.
+- [tesla-fleet-api](https://github.com/moltbot/skills/tree/main/skills/odrobnik/tesla-fleet-api/SKILL.md) - Tesla Fleet API: HVAC, charge controls, wake vehicle, OAuth flows.
+- [lg-thinq](https://github.com/moltbot/skills/tree/main/skills/kaiofreitas/lg-thinq/SKILL.md) - Control LG smart appliances: fridge, washer, dryer, AC.
+- [bambu-local](https://github.com/moltbot/skills/tree/main/skills/tanguyvans/bambu-local/SKILL.md) - Control Bambu Lab 3D printers locally via MQTT.
+- [netatmo](https://github.com/moltbot/skills/tree/main/skills/florianbeer/netatmo/SKILL.md) - Netatmo thermostat control and weather station data.
+- [starlink](https://github.com/moltbot/skills/tree/main/skills/danfedick/starlink/SKILL.md) - Starlink dish: status, speed test, WiFi clients, stow/unstow.
+- [homebridge](https://github.com/moltbot/skills/tree/main/skills/jiasenl/clawdbot-skill-homebridge/SKILL.md) - Control smart home devices via Homebridge REST API.
+- [robo-rock](https://github.com/moltbot/skills/tree/main/skills/dru-ca/robo-rock/SKILL.md) - Control Roborock robot vacuums: clean, maps, consumables.
+- [home-music](https://github.com/moltbot/skills/tree/main/skills/asteinberger/home-music/SKILL.md) - Whole-house music scenes with Spotify + Airfoil speakers.
+- [enzoldhazam](https://github.com/moltbot/skills/tree/main/skills/daniel-laszlo/enzoldhazam/SKILL.md) - NGBS iCON Smart Home thermostat control.
+- [little-snitch](https://github.com/moltbot/skills/tree/main/skills/gumadeiras/little-snitch/SKILL.md) - Little Snitch firewall control on macOS.
+- [daily-recap](https://github.com/moltbot/skills/tree/main/skills/dbhurley/daily-recap/SKILL.md) - Generate a daily recap image with your agent holding a posterboard of accomplishments.
+- [snow-report](https://github.com/moltbot/skills/tree/main/skills/davemorin/snow-report/SKILL.md) - Get snow conditions, forecasts, and ski reports for any mountain resort worldwide.
+- [weather](https://github.com/moltbot/skills/tree/main/skills/steipete/weather/SKILL.md) - Get current weather and forecasts (no API key required).
+- [weather-pollen](https://github.com/moltbot/skills/tree/main/skills/thesethrose/weather-pollen/SKILL.md) - Weather and pollen reports for any location using free APIs.
+- [weathercli](https://github.com/moltbot/skills/tree/main/skills/pjtf93/weathercli/SKILL.md) - Get current weather conditions and forecasts for any location worldwide.
 
-## Shopping & E-commerce
+</details>
+
+<details>
+<summary><h3 style="display:inline">Shopping & E-commerce</h3></summary>
 
 - [anylist](https://github.com/moltbot/skills/tree/main/skills/mjrussell/anylist/SKILL.md) - Manage grocery and shopping lists via AnyList.
 - [bring-shopping](https://github.com/moltbot/skills/tree/main/skills/cutzenfriend/bring-shopping/SKILL.md) - Manage Bring! shopping lists via the unofficial bring-shopping Node.js library.
@@ -654,8 +853,17 @@ Priority: Workspace > Local > Bundled
 - [plan2meal](https://github.com/moltbot/skills/tree/main/skills/okikesolutions/plan2meal/SKILL.md) - plan2meal
 - [shopping-expert](https://github.com/moltbot/skills/tree/main/skills/udiedrichsen/shopping-expert/SKILL.md) - Find and compare products online (Google Shopping) and locally (stores near you).
 - [whcli](https://github.com/moltbot/skills/tree/main/skills/pasogott/whcli/SKILL.md) - Willhaben CLI for searching Austria's largest classifieds marketplace.
+- [wolt-orders](https://github.com/moltbot/skills/tree/main/skills/dviros/wolt-orders/SKILL.md) - Wolt: discover restaurants, order, track, auto-detect delays.
+- [gurkerl](https://github.com/moltbot/skills/tree/main/skills/florianbeer/gurkerl/SKILL.md) - Gurkerl.at grocery shopping via MCP.
+- [agent-commerce](https://github.com/moltbot/skills/tree/main/skills/nowloady) - Agentic e-commerce engine and Sichuan food delivery.
+- [jellyseerr](https://github.com/moltbot/skills/tree/main/skills/ericrosenberg/jellyseerr/SKILL.md) - Request movies and TV shows through Jellyseerr.
+- [clawdbites](https://github.com/moltbot/skills/tree/main/skills/kylelol/clawdbites/SKILL.md) - Extract recipes from Instagram reels.
+- [marketplace-clis](https://github.com/moltbot/skills/tree/main/skills/pjtf93) - Spanish marketplace CLIs: Wallapop, Idealista, Coches.net.
 
-## Calendar & Scheduling
+</details>
+
+<details>
+<summary><h3 style="display:inline">Calendar & Scheduling</h3></summary>
 
 - [accli](https://github.com/moltbot/skills/tree/main/skills/joargp/accli/SKILL.md) - This skill should be used when interacting with Apple Calendar on macOS.
 - [apple-calendar](https://github.com/moltbot/skills/tree/main/skills/tyler6204/apple-calendar/SKILL.md) - Apple Calendar.app integration for macOS.
@@ -671,8 +879,13 @@ Priority: Workspace > Local > Bundled
 - [remind-me](https://github.com/moltbot/skills/tree/main/skills/julianengel/remind-me/SKILL.md) - Set reminders using natural language. Automatically creates one-time cron jobs and logs to markdown.
 - [roadrunner](https://github.com/moltbot/skills/tree/main/skills/johntheyoung/roadrunner/SKILL.md) - Beeper Desktop CLI for chats, messages, search, and reminders.
 - [timer](https://github.com/moltbot/skills/tree/main/skills/hisxo/timer/SKILL.md) - Set timers and alarms. When a background timer completes.
+- [gcal-pro](https://github.com/moltbot/skills/tree/main/skills/bilalmohamed187-cpu/gcal-pro/SKILL.md) - Google Calendar: view, create, manage events with natural language.
+- [meeting-prep](https://github.com/moltbot/skills/tree/main/skills/hougangdev/meeting-prep/SKILL.md) - Meeting preparation and daily commit summaries.
 
-## PDF & Documents
+</details>
+
+<details>
+<summary><h3 style="display:inline">PDF & Documents</h3></summary>
 
 - [confluence](https://github.com/moltbot/skills/tree/main/skills/francisbrero/confluence/SKILL.md) - Search and manage Confluence pages and spaces using confluence-cli.
 - [excel](https://github.com/moltbot/skills/tree/main/skills/dbhurley/excel/SKILL.md) - Read, write, edit, and format Excel files (.xlsx).
@@ -687,7 +900,10 @@ Priority: Workspace > Local > Bundled
 - [pptx-creator](https://github.com/moltbot/skills/tree/main/skills/dbhurley/pptx-creator/SKILL.md) - Create professional PowerPoint presentations from outlines, data sources, or AI-generated content.
 - [pymupdf-pdf](https://github.com/moltbot/skills/tree/main/skills/kesslerio/pymupdf-pdf-parser-clawdbot-skill/SKILL.md) - Fast local PDF parsing with PyMuPDF (fitz) for Markdown/JSON outputs and optional images/tables.
 
-## Self-Hosted & Automation
+</details>
+
+<details>
+<summary><h3 style="display:inline">Self-Hosted & Automation</h3></summary>
 
 - [bridle](https://github.com/moltbot/skills/tree/main/skills/bjesuiter/bridle/SKILL.md) - Unified configuration manager for AI coding assistants.
 - [fathom](https://github.com/moltbot/skills/tree/main/skills/stopmoclay/fathom/SKILL.md) - Connect to Fathom AI to fetch call recordings, transcripts, and summaries.
@@ -698,49 +914,36 @@ Priority: Workspace > Local > Bundled
 - [n8n-workflow-automation](https://github.com/moltbot/skills/tree/main/skills/kowl64/n8n-workflow-automation/SKILL.md) - Designs and outputs n8n workflow JSON with robust triggers, idempotency, error handling, logging.
 - [paperless](https://github.com/moltbot/skills/tree/main/skills/nickchristensen/paperless/SKILL.md) - Interact with Paperless-NGX document management system via ppls CLI.
 - [unifi](https://github.com/moltbot/skills/tree/main/skills/jmagar/unifi/SKILL.md) - Query and monitor UniFi network via local gateway API (Cloud Gateway Max / UniFi OS).
+- [paperless-ngx](https://github.com/moltbot/skills/tree/main/skills/oskarstark/paperless-ngx/SKILL.md) - Paperless-ngx document management: search, upload, tag, organize.
+- [n8n](https://github.com/moltbot/skills/tree/main/skills/pntrivedy/n8n-1-0-2/SKILL.md) - Manage n8n workflows, executions, and automation tasks.
 
-## News & RSS
+</details>
 
-- [bbc-news](https://github.com/moltbot/skills/tree/main/skills/ddrayne/bbc-news/SKILL.md) - Fetch and display BBC News stories from various sections and regions via RSS feeds.
-- [blogwatcher](https://github.com/moltbot/skills/tree/main/skills/steipete/blogwatcher/SKILL.md) - Monitor blogs and RSS/Atom feeds for updates using the blogwatcher CLI.
-- [hn](https://github.com/moltbot/skills/tree/main/skills/dbhurley/hn/SKILL.md) - Browse Hacker News - top stories, new, best, ask, show, jobs, and story details with comments.
-- [hn-digest](https://github.com/moltbot/skills/tree/main/skills/cpojer/hn-digest/SKILL.md) - Fetch and send Hacker News front-page posts on demand.
-- [miniflux](https://github.com/moltbot/skills/tree/main/skills/shekohex/miniflux/SKILL.md) - Browse, read, and manage Miniflux feed articles.
-- [news-summary](https://github.com/moltbot/skills/tree/main/skills/joargp/news-summary/SKILL.md) - This skill should be used when the user asks for news updates, daily briefings.
-- [newsletter-digest](https://github.com/moltbot/skills/tree/main/skills/jhillin8/newsletter-digest/SKILL.md) - Summarize newsletters and articles, extract key insights, create reading lists.
-- [orf-digest](https://github.com/moltbot/skills/tree/main/skills/cpojer/orf/SKILL.md) - On-demand ORF news digest in German. Use when the user says 'orf', 'pull orf', or 'orf 10'.
-
-## Bookmarks & Reading
-
-- [fabric-api](https://github.com/moltbot/skills/tree/main/skills/tristanmanchester/fabric-api/SKILL.md) - Create/search Fabric resources via HTTP API (notepads, folders, bookmarks, files).
-- [instapaper](https://github.com/moltbot/skills/tree/main/skills/vburojevic/instapaper/SKILL.md) - Use when operating the instapaper-cli (ip) tool or troubleshooting it: authenticating.
-- [karakeep](https://github.com/moltbot/skills/tree/main/skills/jayphen/karakeep/SKILL.md) - Manage bookmarks and links in a Karakeep instance.
-- [linkding](https://github.com/moltbot/skills/tree/main/skills/jmagar/linkding/SKILL.md) - Manage bookmarks with Linkding. Use when the user asks to "save a bookmark", "add link".
-- [readeck](https://github.com/moltbot/skills/tree/main/skills/jayphen/readeck/SKILL.md) - Readeck integration for saving and managing articles.
-- [readwise](https://github.com/moltbot/skills/tree/main/skills/refrigerator/readwise/SKILL.md) - Access Readwise highlights and Reader saved articles.
-- [twitter-bookmark-sync](https://github.com/moltbot/skills/tree/main/skills/tunaissacoding/twitter-bookmark-sync/SKILL.md) - Automatically ranks your Twitter bookmarks daily and delivers a curated reading list.
-
-## Weather
-
-- [daily-recap](https://github.com/moltbot/skills/tree/main/skills/dbhurley/daily-recap/SKILL.md) - Generate a daily recap image with your agent holding a posterboard of accomplishments.
-- [snow-report](https://github.com/moltbot/skills/tree/main/skills/davemorin/snow-report/SKILL.md) - Get snow conditions, forecasts, and ski reports for any mountain resort worldwide.
-- [weather](https://github.com/moltbot/skills/tree/main/skills/steipete/weather/SKILL.md) - Get current weather and forecasts (no API key required).
-- [weather-pollen](https://github.com/moltbot/skills/tree/main/skills/thesethrose/weather-pollen/SKILL.md) - Weather and pollen reports for any location using free APIs.
-- [weathercli](https://github.com/moltbot/skills/tree/main/skills/pjtf93/weathercli/SKILL.md) - Get current weather conditions and forecasts for any location worldwide.
-
-## Security & Passwords
+<details>
+<summary><h3 style="display:inline">Security & Passwords</h3></summary>
 
 - [1password](https://github.com/moltbot/skills/tree/main/skills/steipete/1password/SKILL.md) - Set up and use 1Password CLI (op). Use when installing the CLI, enabling desktop app integration.
 - [bitwarden](https://github.com/moltbot/skills/tree/main/skills/asleep123/bitwarden/SKILL.md) - Access and manage Bitwarden/Vaultwarden passwords securely using the rbw CLI.
 - [dashlane](https://github.com/moltbot/skills/tree/main/skills/gnarco/dashlane/SKILL.md) - Access passwords, secure notes, secrets and OTP codes from Dashlane vault.
+- [security-skills](https://github.com/moltbot/skills/tree/main/skills/chandrasekar-r) - Security audit and real-time monitoring for Clawdbot deployments.
+- [security-suite](https://github.com/moltbot/skills/tree/main/skills/gtrusler/clawdbot-security-suite/SKILL.md) - Advanced security validation: pattern detection, command sanitization.
+- [bitwarden-vault](https://github.com/moltbot/skills/tree/main/skills/startupbros/bitwarden-vault/SKILL.md) - Bitwarden CLI setup, authentication, and secret reading.
 
-## Contributing
+</details>
 
-We welcome contributions!
+## 🤝 Contributing
 
-- To add your skill, first publish it to [ClawdHub](https://clawdhub.com). After publishing, you'll get a GitHub repository link (e.g., `https://github.com/moltbot/skills/tree/main/skills/username/skill-name`). Then submit a PR to this repo with your skill entry including that link
+We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+
+- Submit new skills via PR
 - Improve existing definitions
 
 **Note:** Please don't submit skills you created 3 hours ago. We're now focusing on community-adopted skills, especially those published by development teams and proven in real-world usage. Quality over quantity.
 
-*This is a curated list. We do not audit, endorse, or guarantee the security or correctness of listed projects.*
+## License
+
+MIT License - see [LICENSE](LICENSE)
+
+Skills in this list are sourced from the [Moltbot official skills repo](https://github.com/moltbot/skills/tree/main/skills) and categorized for easier discovery. Skills listed here are created and maintained by their respective authors, not by us. We do not audit, endorse, or guarantee the security or correctness of listed projects. They are not security-audited and should be reviewed before production use.
+
+If you find an issue with a listed skill or want your skill removed, please [open an issue](VoltAgent/awesome-moltbot-skills/issues) and we'll take care of it promptly.

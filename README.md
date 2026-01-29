@@ -931,11 +931,11 @@ Priority: Workspace > Local > Bundled
 
 </details>
 
-## Contributing
+## 🤝 Contributing
 
-We welcome contributions!
+We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
-- To add your skill, first publish it to [MoltHub](https://clawdhub.com). After publishing, you'll get a GitHub repository link (e.g., `https://github.com/moltbot/skills/tree/main/skills/username/skill-name`). Then submit a PR to this repo with your skill entry including that link
+- Submit new skills via PR
 - Improve existing definitions
 
 **Note:** Please don't submit skills you created 3 hours ago. We're now focusing on community-adopted skills, especially those published by development teams and proven in real-world usage. Quality over quantity.

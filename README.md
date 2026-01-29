@@ -60,7 +60,7 @@ Priority: Workspace > Local > Bundled
 - [Git & GitHub](#git--github) (9)
 - [DevOps & Cloud](#devops--cloud) (35)
 - [Browser & Automation](#browser--automation) (8)
-- [Image & Video Generation](#image--video-generation) (9)
+- [Image & Video Generation](#image--video-generation) (10)
 - [Apple Apps & Services](#apple-apps--services) (11)
 - [Search & Research](#search--research) (12)
 - [Clawdbot Tools](#clawdbot-tools) (13)
@@ -196,6 +196,7 @@ Priority: Workspace > Local > Bundled
 - [gamma](https://github.com/moltbot/skills/tree/main/skills/stopmoclay/gamma/SKILL.md) - Generate AI-powered presentations, documents, and social posts using Gamma.app API.
 - [krea-api](https://github.com/moltbot/skills/tree/main/skills/fossilizedcarlos/krea-api/SKILL.md) - Generate images via Krea.ai API (Flux, Imagen, Ideogram, Seedream, etc.).
 - [meshy-ai](https://github.com/moltbot/skills/tree/main/skills/sabatesduran/clawdbot-meshyai-skill/SKILL.md) - Use the Meshy.ai REST API to generate assets: (1) text-to-2d (Meshy Text to Image)
+- [vap-media](https://clawdhub.com/skills/vap-media) - AI image, video, and music generation via VAP API. Flux, Veo 3.1, Suno V5 with transparent pricing.
 - [veo](https://github.com/moltbot/skills/tree/main/skills/buddyh/veo/SKILL.md) - Generate video using Google Veo (Veo 3.1 / Veo 3.0).
 - [video-frames](https://github.com/moltbot/skills/tree/main/skills/steipete/video-frames/SKILL.md) - Extract frames or short clips from videos using ffmpeg.
 

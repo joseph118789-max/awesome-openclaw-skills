@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-    <strong>A collection of 701+ community-built skills for Moltbot(formerly Clawdbot), categorized for easy discovery.
+    <strong>A collection of 700+ community-built skills for Moltbot(formerly Clawdbot), categorized for easy discovery.
     </strong>
     <br />
     <br />
@@ -19,7 +19,7 @@
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
 </a> 
 
-![Skills Count](https://img.shields.io/badge/skills-701+-blue?style=flat-square)
+![Skills Count](https://img.shields.io/badge/skills-700+-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 [![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-clawdbot-skills?style=social)](https://github.com/VoltAgent/awesome-claude-skills/network/members)
@@ -60,7 +60,7 @@ Priority: Workspace > Local > Bundled
 - [Git & GitHub](#git--github) (9)
 - [DevOps & Cloud](#devops--cloud) (41)
 - [Browser & Automation](#browser--automation) (11)
-- [Image & Video Generation](#image--video-generation) (17)
+- [Image & Video Generation](#image--video-generation) (19)
 - [Apple Apps & Services](#apple-apps--services) (14)
 - [Search & Research](#search--research) (23)
 - [Clawdbot Tools](#clawdbot-tools) (17)
@@ -68,23 +68,20 @@ Priority: Workspace > Local > Bundled
 - [Marketing & Sales](#marketing--sales) (42)
 - [Productivity & Tasks](#productivity--tasks) (41)
 - [AI & LLMs](#ai--llms) (38)
-- [Finance](#finance) (30)
+- [Finance](#finance) (29)
 - [Media & Streaming](#media--streaming) (29)
-- [Notes & PKM](#notes--pkm) (27)
+- [Notes & PKM](#notes--pkm) (44)
 - [iOS & macOS Development](#ios--macos-development) (13)
 - [Transportation](#transportation) (34)
 - [Personal Development](#personal-development) (27)
 - [Health & Fitness](#health--fitness) (26)
-- [Communication](#communication) (25)
+- [Communication](#communication) (26)
 - [Speech & Transcription](#speech--transcription) (21)
-- [Smart Home & IoT](#smart-home--iot) (26)
+- [Smart Home & IoT](#smart-home--iot) (31)
 - [Shopping & E-commerce](#shopping--e-commerce) (22)
 - [Calendar & Scheduling](#calendar--scheduling) (16)
 - [PDF & Documents](#pdf--documents) (12)
 - [Self-Hosted & Automation](#self-hosted--automation) (11)
-- [News & RSS](#news--rss) (8)
-- [Bookmarks & Reading](#bookmarks--reading) (9)
-- [Weather](#weather) (5)
 - [Security & Passwords](#security--passwords) (6)
 
 
@@ -616,6 +613,23 @@ Priority: Workspace > Local > Bundled
 - [reflect](https://github.com/moltbot/skills/tree/main/skills/sergical/reflect/SKILL.md) - Append to daily notes and create notes in Reflect app.
 - [notion-api](https://github.com/moltbot/skills/tree/main/skills/timenotspace/notion-api/SKILL.md) - Notion API CLI: search, query databases, create pages.
 - [granola](https://github.com/moltbot/skills/tree/main/skills/scald/granola/SKILL.md) - Access Granola meeting transcripts and notes.
+- [fabric-api](https://github.com/moltbot/skills/tree/main/skills/tristanmanchester/fabric-api/SKILL.md) - Create/search Fabric resources via HTTP API (notepads, folders, bookmarks, files).
+- [instapaper](https://github.com/moltbot/skills/tree/main/skills/vburojevic/instapaper/SKILL.md) - Use when operating the instapaper-cli (ip) tool or troubleshooting it: authenticating.
+- [karakeep](https://github.com/moltbot/skills/tree/main/skills/jayphen/karakeep/SKILL.md) - Manage bookmarks and links in a Karakeep instance.
+- [linkding](https://github.com/moltbot/skills/tree/main/skills/jmagar/linkding/SKILL.md) - Manage bookmarks with Linkding. Use when the user asks to "save a bookmark", "add link".
+- [readeck](https://github.com/moltbot/skills/tree/main/skills/jayphen/readeck/SKILL.md) - Readeck integration for saving and managing articles.
+- [readwise](https://github.com/moltbot/skills/tree/main/skills/refrigerator/readwise/SKILL.md) - Access Readwise highlights and Reader saved articles.
+- [twitter-bookmark-sync](https://github.com/moltbot/skills/tree/main/skills/tunaissacoding/twitter-bookmark-sync/SKILL.md) - Automatically ranks your Twitter bookmarks daily and delivers a curated reading list.
+- [raindrop](https://github.com/moltbot/skills/tree/main/skills/velvet-shark/raindrop/SKILL.md) - Raindrop.io bookmarks: search, list, add, organize with tags.
+- [substack-formatter](https://github.com/moltbot/skills/tree/main/skills/maddiedreese/substack-formatter/SKILL.md) - Transform text into Substack article format with HTML formatting.
+- [bbc-news](https://github.com/moltbot/skills/tree/main/skills/ddrayne/bbc-news/SKILL.md) - Fetch and display BBC News stories from various sections and regions via RSS feeds.
+- [blogwatcher](https://github.com/moltbot/skills/tree/main/skills/steipete/blogwatcher/SKILL.md) - Monitor blogs and RSS/Atom feeds for updates using the blogwatcher CLI.
+- [hn](https://github.com/moltbot/skills/tree/main/skills/dbhurley/hn/SKILL.md) - Browse Hacker News - top stories, new, best, ask, show, jobs, and story details with comments.
+- [hn-digest](https://github.com/moltbot/skills/tree/main/skills/cpojer/hn-digest/SKILL.md) - Fetch and send Hacker News front-page posts on demand.
+- [miniflux](https://github.com/moltbot/skills/tree/main/skills/shekohex/miniflux/SKILL.md) - Browse, read, and manage Miniflux feed articles.
+- [news-summary](https://github.com/moltbot/skills/tree/main/skills/joargp/news-summary/SKILL.md) - This skill should be used when the user asks for news updates, daily briefings.
+- [newsletter-digest](https://github.com/moltbot/skills/tree/main/skills/jhillin8/newsletter-digest/SKILL.md) - Summarize newsletters and articles, extract key insights, create reading lists.
+- [orf-digest](https://github.com/moltbot/skills/tree/main/skills/cpojer/orf/SKILL.md) - On-demand ORF news digest in German. Use when the user says 'orf', 'pull orf', or 'orf 10'.
 
 </details>
 
@@ -812,6 +826,11 @@ Priority: Workspace > Local > Bundled
 - [home-music](https://github.com/moltbot/skills/tree/main/skills/asteinberger/home-music/SKILL.md) - Whole-house music scenes with Spotify + Airfoil speakers.
 - [enzoldhazam](https://github.com/moltbot/skills/tree/main/skills/daniel-laszlo/enzoldhazam/SKILL.md) - NGBS iCON Smart Home thermostat control.
 - [little-snitch](https://github.com/moltbot/skills/tree/main/skills/gumadeiras/little-snitch/SKILL.md) - Little Snitch firewall control on macOS.
+- [daily-recap](https://github.com/moltbot/skills/tree/main/skills/dbhurley/daily-recap/SKILL.md) - Generate a daily recap image with your agent holding a posterboard of accomplishments.
+- [snow-report](https://github.com/moltbot/skills/tree/main/skills/davemorin/snow-report/SKILL.md) - Get snow conditions, forecasts, and ski reports for any mountain resort worldwide.
+- [weather](https://github.com/moltbot/skills/tree/main/skills/steipete/weather/SKILL.md) - Get current weather and forecasts (no API key required).
+- [weather-pollen](https://github.com/moltbot/skills/tree/main/skills/thesethrose/weather-pollen/SKILL.md) - Weather and pollen reports for any location using free APIs.
+- [weathercli](https://github.com/moltbot/skills/tree/main/skills/pjtf93/weathercli/SKILL.md) - Get current weather conditions and forecasts for any location worldwide.
 
 </details>
 
@@ -897,46 +916,6 @@ Priority: Workspace > Local > Bundled
 - [unifi](https://github.com/moltbot/skills/tree/main/skills/jmagar/unifi/SKILL.md) - Query and monitor UniFi network via local gateway API (Cloud Gateway Max / UniFi OS).
 - [paperless-ngx](https://github.com/moltbot/skills/tree/main/skills/oskarstark/paperless-ngx/SKILL.md) - Paperless-ngx document management: search, upload, tag, organize.
 - [n8n](https://github.com/moltbot/skills/tree/main/skills/pntrivedy/n8n-1-0-2/SKILL.md) - Manage n8n workflows, executions, and automation tasks.
-
-</details>
-
-<details>
-<summary><h3 style="display:inline">News & RSS</h3></summary>
-
-- [bbc-news](https://github.com/moltbot/skills/tree/main/skills/ddrayne/bbc-news/SKILL.md) - Fetch and display BBC News stories from various sections and regions via RSS feeds.
-- [blogwatcher](https://github.com/moltbot/skills/tree/main/skills/steipete/blogwatcher/SKILL.md) - Monitor blogs and RSS/Atom feeds for updates using the blogwatcher CLI.
-- [hn](https://github.com/moltbot/skills/tree/main/skills/dbhurley/hn/SKILL.md) - Browse Hacker News - top stories, new, best, ask, show, jobs, and story details with comments.
-- [hn-digest](https://github.com/moltbot/skills/tree/main/skills/cpojer/hn-digest/SKILL.md) - Fetch and send Hacker News front-page posts on demand.
-- [miniflux](https://github.com/moltbot/skills/tree/main/skills/shekohex/miniflux/SKILL.md) - Browse, read, and manage Miniflux feed articles.
-- [news-summary](https://github.com/moltbot/skills/tree/main/skills/joargp/news-summary/SKILL.md) - This skill should be used when the user asks for news updates, daily briefings.
-- [newsletter-digest](https://github.com/moltbot/skills/tree/main/skills/jhillin8/newsletter-digest/SKILL.md) - Summarize newsletters and articles, extract key insights, create reading lists.
-- [orf-digest](https://github.com/moltbot/skills/tree/main/skills/cpojer/orf/SKILL.md) - On-demand ORF news digest in German. Use when the user says 'orf', 'pull orf', or 'orf 10'.
-
-</details>
-
-<details>
-<summary><h3 style="display:inline">Bookmarks & Reading</h3></summary>
-
-- [fabric-api](https://github.com/moltbot/skills/tree/main/skills/tristanmanchester/fabric-api/SKILL.md) - Create/search Fabric resources via HTTP API (notepads, folders, bookmarks, files).
-- [instapaper](https://github.com/moltbot/skills/tree/main/skills/vburojevic/instapaper/SKILL.md) - Use when operating the instapaper-cli (ip) tool or troubleshooting it: authenticating.
-- [karakeep](https://github.com/moltbot/skills/tree/main/skills/jayphen/karakeep/SKILL.md) - Manage bookmarks and links in a Karakeep instance.
-- [linkding](https://github.com/moltbot/skills/tree/main/skills/jmagar/linkding/SKILL.md) - Manage bookmarks with Linkding. Use when the user asks to "save a bookmark", "add link".
-- [readeck](https://github.com/moltbot/skills/tree/main/skills/jayphen/readeck/SKILL.md) - Readeck integration for saving and managing articles.
-- [readwise](https://github.com/moltbot/skills/tree/main/skills/refrigerator/readwise/SKILL.md) - Access Readwise highlights and Reader saved articles.
-- [twitter-bookmark-sync](https://github.com/moltbot/skills/tree/main/skills/tunaissacoding/twitter-bookmark-sync/SKILL.md) - Automatically ranks your Twitter bookmarks daily and delivers a curated reading list.
-- [raindrop](https://github.com/moltbot/skills/tree/main/skills/velvet-shark/raindrop/SKILL.md) - Raindrop.io bookmarks: search, list, add, organize with tags.
-- [substack-formatter](https://github.com/moltbot/skills/tree/main/skills/maddiedreese/substack-formatter/SKILL.md) - Transform text into Substack article format with HTML formatting.
-
-</details>
-
-<details>
-<summary><h3 style="display:inline">Weather</h3></summary>
-
-- [daily-recap](https://github.com/moltbot/skills/tree/main/skills/dbhurley/daily-recap/SKILL.md) - Generate a daily recap image with your agent holding a posterboard of accomplishments.
-- [snow-report](https://github.com/moltbot/skills/tree/main/skills/davemorin/snow-report/SKILL.md) - Get snow conditions, forecasts, and ski reports for any mountain resort worldwide.
-- [weather](https://github.com/moltbot/skills/tree/main/skills/steipete/weather/SKILL.md) - Get current weather and forecasts (no API key required).
-- [weather-pollen](https://github.com/moltbot/skills/tree/main/skills/thesethrose/weather-pollen/SKILL.md) - Weather and pollen reports for any location using free APIs.
-- [weathercli](https://github.com/moltbot/skills/tree/main/skills/pjtf93/weathercli/SKILL.md) - Get current weather conditions and forecasts for any location worldwide.
 
 </details>
 

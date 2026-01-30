@@ -1,6 +1,6 @@
 # Contributing to Awesome Moltbot Skills
 
-A curated list of skills for Moltbot (formerly Clawdbot). We organize links to skills hosted in the [official Moltbot skills repo]((https://github.com/openclaw/skills/tree/main/skills).
+A curated list of skills for OpenClaw (previously known as Moltbot, originally Clawdbot... identity crisis included, no extra charge). We organize links to skills hosted in the [official OpenClaw skills repo]((https://github.com/openclaw/skills/tree/main/skills).
 
 ## Adding a Skill
 

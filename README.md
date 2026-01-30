@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-    <strong>A collection of 700+ community-built skills for Moltbot(formerly Clawdbot), categorized for easy discovery.
+    <strong>Discover 700+ community-built OpenClaw(Moltbot(Clawdbot)) skills, organized by category.
     </strong>
     <br />
     <br />
@@ -25,20 +25,20 @@
 [![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-clawdbot-skills?style=social)](https://github.com/VoltAgent/awesome-claude-skills/network/members)
 </div>
 
-# Awesome Clawdbot(Moltbot) Skills
+# Awesome OpenClaw(Moltbot(Clawdbot)) Skills
 
-Moltbot(formerly Clawdbot) is a locally-running AI assistant that operates directly on your machine. Skills extend its capabilities, allowing it to interact with external services, automate workflows, and perform specialized tasks. This collection helps you discover and install the right skills for your needs.
+OpenClaw (previously known as Moltbot, originally Clawdbot... identity crisis included, no extra charge) is a locally-running AI assistant that operates directly on your machine. Skills extend its capabilities, allowing it to interact with external services, automate workflows, and perform specialized tasks. This collection helps you discover and install the right skills for your needs.
 
-Skills in this list are sourced from [MoltHub](https://clawdhub.com) (Moltbot's public skills registry) and categorized for easier discovery.
+Skills in this list are sourced from [OpenClaw](https://clawdhub.com) (OpenClaw's public skills registry) and categorized for easier discovery.
 
 These skills follow the Agent Skill convention develop by Anthropic, an open standard for AI coding assistants.
 
 ## Installation
 
-### MoltHub CLI
+### ClawdHub CLI
 
 ```bash
-npx molthub@latest install <skill-slug>
+npx clawdhub@latest install <skill-slug>
 ```
 
 ### Manual Installation
@@ -47,7 +47,7 @@ Copy the skill folder to one of these locations:
 
 | Location | Path |
 |----------|------|
-| Global | `~/.clawdbot/skills/` |
+| Global | `~/.openclaw/skills/` |
 | Workspace | `<project>/skills/` |
 
 Priority: Workspace > Local > Bundled
@@ -946,4 +946,4 @@ MIT License - see [LICENSE](LICENSE)
 
 Skills in this list are sourced from the [Moltbot official skills repo]((https://github.com/openclaw/skills/tree/main/skills) and categorized for easier discovery. Skills listed here are created and maintained by their respective authors, not by us. We do not audit, endorse, or guarantee the security or correctness of listed projects. They are not security-audited and should be reviewed before production use.
 
-If you find an issue with a listed skill or want your skill removed, please [open an issue](VoltAgent/awesome-moltbot-skills/issues) and we'll take care of it promptly.
+If you find an issue with a listed skill or want your skill removed, please [open an issue](VoltAgent/awesome-openclaw-skills/issues) and we'll take care of it promptly.

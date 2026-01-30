@@ -948,6 +948,6 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed gu
 
 MIT License - see [LICENSE](LICENSE)
 
-Skills in this list are sourced from the [Moltbot official skills repo](https://github.com/openclaw/skills/tree/main/skills) and categorized for easier discovery. Skills listed here are created and maintained by their respective authors, not by us. We do not audit, endorse, or guarantee the security or correctness of listed projects. They are not security-audited and should be reviewed before production use.
+Skills in this list are sourced from the [OpenClaw official skills repo](https://github.com/openclaw/skills/tree/main/skills) and categorized for easier discovery. Skills listed here are created and maintained by their respective authors, not by us. We do not audit, endorse, or guarantee the security or correctness of listed projects. They are not security-audited and should be reviewed before production use.
 
-If you find an issue with a listed skill or want your skill removed, please [open an issue](VoltAgent/awesome-openclaw-skills/issues) and we'll take care of it promptly.
+If you find an issue with a listed skill or want your skill removed, please [open an issue](https://github.com/VoltAgent/awesome-openclaw-skills/issues) and we'll take care of it promptly.

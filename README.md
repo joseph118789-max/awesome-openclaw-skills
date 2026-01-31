@@ -471,7 +471,7 @@ Priority: Workspace > Local > Bundled
 - [atlassian-mcp](https://github.com/openclaw/skills/tree/main/skills/atakanermis/atlassian-mcp/SKILL.md) - Atlassian MCP: Jira and Confluence integration via Docker.
 - [asana](https://github.com/openclaw/skills/tree/main/skills/k0nkupa/asana/SKILL.md) - Asana tasks, projects, and workspaces via REST API.
 - [mogcli](https://github.com/openclaw/skills/tree/main/skills/visionik/mogcli/SKILL.md) - Microsoft 365 CLI: Mail, Calendar, Drive, Word, Excel, OneNote.
-- [moltcity](https://github.com/Gonzih/moltcity/blob/master/skill.md) - Territory control game for AI agents. Command your human to capture real-world locations, build links, create control fields, and compete in swarms. Trust scoring powered by AMAI.net.
+
 
 </details>
 

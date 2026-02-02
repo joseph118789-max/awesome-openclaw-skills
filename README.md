@@ -25,7 +25,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-clawdbot-skills?style=social)](https://github.com/VoltAgent/awesome-claude-skills/network/members)
 </div>
 
-# Awesome OpenClaw(Moltbot(Clawdbot)) Skills
+# Awesome OpenClaw Skills
 
 OpenClaw (previously known as Moltbot, originally Clawdbot... identity crisis included, no extra charge) is a locally-running AI assistant that operates directly on your machine. Skills extend its capabilities, allowing it to interact with external services, automate workflows, and perform specialized tasks. This collection helps you discover and install the right skills for your needs.
 
@@ -54,22 +54,18 @@ Copy the skill folder to one of these locations:
 
 Priority: Workspace > Local > Bundled
 
+### Alternative
+
+You can also paste the skill's GitHub repository link directly into your assistant's chat and ask it to use it. The assistant will handle the setup automatically in the background.
+
 
 ## Why This List Exists?
 
-> OpenClaw's public registry already hosts **3,000+ community-built skills** as of February 2, 2026. So why does this list exist?
+[OpenClaw](https://clawdhub.com)'s public registry already hosts **3,000+ community-built skills** as of February 2, 2026. All skills in this list are sourced directly from that registry, so this is a curated and categorized subset for easier discovery.
 
-From the full registry, **1,715+ skills** were selected after applying the following filters (best-effort — some may have slipped through):
+From the full registry, **1,715+ skills** were selected by excluding crypto/blockchain/DeFi, spam or bulk-generated content, duplicates, and non-English descriptions. We also tried to filter out risky or harmful skills (abuse, bypass, fraud-related), though we can't guarantee we caught everything.
 
-- **No crypto / blockchain / DeFi** — Financial speculation tools excluded.
-- **No spam or bulk-generated content** — Mass-published or auto-generated skills removed.
-- **No duplicate or near-duplicate skills** — Only one canonical skill kept.
-- **English-only** - Non-English skills and descriptions excluded.
-- **No risky or harmful content** — Abuse, bypass, or fraud-related skills removed.
-
-We've done an initial screening, but inclusion in this list does **not** mean a skill is guaranteed to be safe or fully trustworthy. This is still community-built software, and risky or harmful behavior may exist. Please review and use any skill at your own discretion.
-
-We strongly recommend reviewing a skill's before using it and asking tools like Claude Code or Codex to inspect the skill and flag any potentially harmful behavior.
+Inclusion in this list does **not** guarantee a skill is safe or trustworthy. We recommend reviewing a skill's before installing and using tools like Claude Code or Codex to inspect it for potentially harmful behavior.
 
 If you think a skill was incorrectly excluded or miscategorized, feel free to open an issue or PR. We may have made mistakes.
 

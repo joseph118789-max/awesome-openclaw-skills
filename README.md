@@ -29,18 +29,18 @@
 
 OpenClaw (previously known as Moltbot, originally Clawdbot... identity crisis included, no extra charge) is a locally-running AI assistant that operates directly on your machine. Skills extend its capabilities, allowing it to interact with external services, automate workflows, and perform specialized tasks. This collection helps you discover and install the right skills for your needs.
 
-Skills in this list are sourced from [OpenClaw](https://clawdhub.com) (OpenClaw's public skills registry) and categorized for easier discovery.
+Skills in this list are sourced from [ClawHub](https://www.clawhub.com/) (OpenClaw's public skills registry) and categorized for easier discovery.
 
 These skills follow the Agent Skill convention develop by Anthropic, an open standard for AI coding assistants.
 
 ## Installation
 
-### ClawdHub CLI
+### ClawHub CLI
 
 > **Note:** As you probably know, they keep renaming things. This reflects the current official docs. We'll update this when they rename it again.
 
 ```bash
-npx clawdhub@latest install <skill-slug>
+npx clawhub@latest install <skill-slug>
 ```
 
 ### Manual Installation
@@ -57,6 +57,17 @@ Priority: Workspace > Local > Bundled
 ### Alternative
 
 You can also paste the skill's GitHub repository link directly into your assistant's chat and ask it to use it. The assistant will handle the setup automatically in the background.
+
+
+## Why This List Exists?
+
+[OpenClaw](https://www.clawhub.com/)'s public registry already hosts **3,000+ community-built skills** as of February 2, 2026. All skills in this list are sourced directly from that registry, so this is a curated and categorized subset for easier discovery.
+
+From the full registry, **1,715+ skills** were selected by excluding crypto/blockchain/DeFi, spam or bulk-generated content, duplicates, and non-English descriptions. We also tried to filter out risky or harmful skills (abuse, bypass, fraud-related), though we can't guarantee we caught everything.
+
+Inclusion in this list does **not** guarantee a skill is safe or trustworthy. We recommend reviewing a skill's before installing and using tools like Claude Code or Codex to inspect it for potentially harmful behavior.
+
+If you think a skill was incorrectly excluded or miscategorized, feel free to open an issue or PR. We may have made mistakes.
 
 
 ## Table of Contents
@@ -540,7 +551,6 @@ You can also paste the skill's GitHub repository link directly into your assista
 - [subtitles](https://github.com/openclaw/skills/tree/main/skills/therohitdas/subtitles/SKILL.md) - Get subtitles from YouTube videos for translation, language learning.
 - [superdesign](https://github.com/openclaw/skills/tree/main/skills/mpociot/superdesign/SKILL.md) - Expert frontend design guidelines for modern.
 - [tube-summary](https://github.com/openclaw/skills/tree/main/skills/dillera/tube-summary/SKILL.md) - Search YouTube for videos on any topic and get intelligent summaries from video subtitles.
-- [vap-media](https://clawdhub.com/skills/vap-media) - AI image, video, and music generation via VAP API.
 - [vap-multimedia-generation](https://github.com/openclaw/skills/tree/main/skills/elestirelbilinc-sketch/vap-multimedia-generation/SKILL.md) - AI image, video.
 - [venice-ai](https://github.com/openclaw/skills/tree/main/skills/nhannah/venice-ai-media/SKILL.md) - Venice AI: image/video generation, upscaling, AI editing.
 - [veo](https://github.com/openclaw/skills/tree/main/skills/buddyh/veo/SKILL.md) - Generate video using Google Veo (Veo 3.1 / Veo 3.0).
@@ -615,7 +625,6 @@ You can also paste the skill's GitHub repository link directly into your assista
 - [clawdbot-logs](https://github.com/openclaw/skills/tree/main/skills/satriapamudji/clawdbot-logs/SKILL.md) - Analyze Clawdbot logs and diagnostics.
 - [clawdgle](https://github.com/openclaw/skills/tree/main/skills/rubybrewsday/clawdgle/SKILL.md) - Public API usage for the Clawdgle markdown-first search engine.
 - [clawhub](https://github.com/openclaw/skills/tree/main/skills/zaycv/clawhub/SKILL.md) - Use ClawHub CLI to search, install, update, and publish agent skills from clawhub.ai with advanced caching and compre.
-- [clawhub1](https://github.com/openclaw/skills/tree/main/skills/zaycv/clawhub1/SKILL.md) - Use the ClawHub CLI to search, install, update, and publish agent skills from clawhub.ai with advanced caching.
 - [cochesnet-cli](https://github.com/openclaw/skills/tree/main/skills/pjtf93/cochesnet-cli/SKILL.md) - Use the cochesnet CLI to search coches.net listings and fetch listing details.
 - [code-docs-search-exa](https://github.com/openclaw/skills/tree/main/skills/theishangoswami/code-docs-search-exa/SKILL.md)
 - [competitive-intelligence-market-research](https://github.com/openclaw/skills/tree/main/skills/shashwatgtm/competitive-intelligence-market-research/SKILL.md) - B2B SaaS competitive intelligence with 24 scenarios across Sales/HR/Fintech/Ops Tech
@@ -770,7 +779,7 @@ You can also paste the skill's GitHub repository link directly into your assista
 - [clawdbot-workspace-template-review](https://github.com/openclaw/skills/tree/main/skills/xadenryan/clawdbot-skill-clawdbot-workspace-template-review/SKILL.md) - Compare a Clawdbot workspace against the official templates installed with Clawdbot.
 - [clawddocs](https://github.com/openclaw/skills/tree/main/skills/nicholasspisak/clawddocs/SKILL.md) - Clawdbot documentation expert with decision tree navigation, search scripts, doc fetching.
 - [clawdefender](https://github.com/openclaw/skills/tree/main/skills/nukewire/clawdefender/SKILL.md) - Security scanner and input sanitizer for AI agents.
-- [clawdhub](https://github.com/openclaw/skills/tree/main/skills/steipete/clawdhub/SKILL.md) - Use the ClawdHub CLI to search, install, update, and publish agent skills from clawdhub.com.
+- [ClawHub](https://github.com/openclaw/skills/tree/main/skills/steipete/ClawHub/SKILL.md) - Use the ClawHub CLI to search, install, update, and publish agent skills from ClawHub.com.
 - [clawdirect](https://github.com/openclaw/skills/tree/main/skills/napoleond/clawdirect/SKILL.md) - Interact with ClawDirect, a directory of social web experiences for AI agents.
 - [clawdirect-dev](https://github.com/openclaw/skills/tree/main/skills/napoleond/clawdirect-dev/SKILL.md) - Build agent-facing web experiences with ATXP-based authentication, following the ClawDirect pattern.
 - [clawdlink](https://github.com/openclaw/skills/tree/main/skills/davemorin/clawdlink/SKILL.md) - Encrypted Clawdbot-to-Clawdbot messaging.
@@ -1688,7 +1697,7 @@ You can also paste the skill's GitHub repository link directly into your assista
 - [wa-styler](https://github.com/openclaw/skills/tree/main/skills/rubenfb23/wa-styler/SKILL.md) - Skill to ensure all messages sent to WhatsApp follow the platform's specific formatting syntax.
 - [wacli](https://github.com/openclaw/skills/tree/main/skills/steipete/wacli/SKILL.md) - Send WhatsApp messages to other people or search/sync WhatsApp history.
 - [walkie-talkie](https://github.com/openclaw/skills/tree/main/skills/rubenfb23/walkie-talkie/SKILL.md) - WhatsApp voice conversations: transcribe audio, respond with TTS.
-- [webchat-audio-notifications](https://clawdhub.com/brokemac79/webchat-audio-notifications) - Browser audio notifications for webchat with 5 intensity levels, custom sounds, and smart tab detection.
+- [webchat-audio-notifications](https://ClawHub.com/brokemac79/webchat-audio-notifications) - Browser audio notifications for webchat with 5 intensity levels, custom sounds, and smart tab detection.
 - [whatsapp-styler](https://github.com/openclaw/skills/tree/main/skills/rubenfb23/whatsapp-styler/SKILL.md) - Skill to ensure all messages sent to WhatsApp follow the platform's specific formatting syntax.
 - [whatsapp-video-mockup](https://github.com/openclaw/skills/tree/main/skills/danpeg/whatsapp-video-mockup/SKILL.md) - whatsapp-video-mockup
 - [zalo](https://github.com/openclaw/skills/tree/main/skills/codedao12/zalo/SKILL.md) - Guidance for integrating Zalo (Zalo OA/ZNS): flows, API usage, webhooks.
@@ -1948,7 +1957,7 @@ You can also paste the skill's GitHub repository link directly into your assista
 - [ms-onedrive-personal](https://github.com/openclaw/skills/tree/main/skills/cesarus85/ms-onedrive-personal/SKILL.md) - Access OneDrive Personal (consumer Microsoft accounts) via Microsoft Graph using OAuth device-code flow.
 - [nano-banana-antigravity](https://github.com/openclaw/skills/tree/main/skills/cgnl/nano-banana-antigravity/SKILL.md) - Generate or edit images via Nano Banana Pro using Antigravity OAuth (no API key needed!)
 - [one-skill-to-rule-them-all](https://github.com/openclaw/skills/tree/main/skills/hichana/one-skill-to-rule-them-all/SKILL.md) - **Security analysis skill for auditing other SKILL.md files**
-- [openclaw-skills-security-checker](https://github.com/openclaw/skills/tree/main/skills/digitaladaption/openclaw-skills-security-checker/SKILL.md) - Security scanner for ClawdHub skills - detects suspicious patterns, manages whitelists, and monitors Security & Passwords.
+- [openclaw-skills-security-checker](https://github.com/openclaw/skills/tree/main/skills/digitaladaption/openclaw-skills-security-checker/SKILL.md) - Security scanner for ClawHub skills - detects suspicious patterns, manages whitelists, and monitors Security & Passwords.
 - [security-heuristics](https://github.com/openclaw/skills/tree/main/skills/luluf0x/security-heuristics/SKILL.md) - **Purpose:** Mental checklist before installing ANY external skill, code.
 - [security-skills](https://github.com/openclaw/skills/tree/main/skills/chandrasekar-r) - Security audit and real-time monitoring for Clawdbot deployments.
 - [security-suite](https://github.com/openclaw/skills/tree/main/skills/gtrusler/clawdbot-security-suite/SKILL.md) - Advanced security validation: pattern detection, command sanitization.
@@ -1971,15 +1980,7 @@ You can also paste the skill's GitHub repository link directly into your assista
 
 </details>
 
-## Why This List Exists?
 
-[OpenClaw](https://clawdhub.com)'s public registry already hosts **3,000+ community-built skills** as of February 2, 2026. All skills in this list are sourced directly from that registry, so this is a curated and categorized subset for easier discovery.
-
-From the full registry, **1,715+ skills** were selected by excluding crypto/blockchain/DeFi, spam or bulk-generated content, duplicates, and non-English descriptions. We also tried to filter out risky or harmful skills (abuse, bypass, fraud-related), though we can't guarantee we caught everything.
-
-Inclusion in this list does **not** guarantee a skill is safe or trustworthy. We recommend reviewing a skill's before installing and using tools like Claude Code or Codex to inspect it for potentially harmful behavior.
-
-If you think a skill was incorrectly excluded or miscategorized, feel free to open an issue or PR. We may have made mistakes.
 
 ## 🤝 Contributing
 

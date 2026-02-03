@@ -557,7 +557,6 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [veo3-video-gen](https://github.com/openclaw/skills/tree/main/skills/bluelyw/veo3-video-gen/SKILL.md) - Generate and stitch short videos via Google Veo 3.x using the Gemini API (google-genai).
 - [video-frames](https://github.com/openclaw/skills/tree/main/skills/steipete/video-frames/SKILL.md) - Extract frames or short clips from videos using ffmpeg.
 - [yollomi](https://github.com/openclaw/skills/tree/main/skills/anichikage/yollomi/SKILL.md) - Generate AI images and videos using Yollomi API.
-- [youtube-thumbnail-grabber](https://github.com/openclaw/skills/tree/main/skills/jordanprater/youtube-thumbnail-grabber/SKILL.md) - Download YouTube video thumbnails in various resolutions.
 - [yt-thumbnail-grabber](https://github.com/openclaw/skills/tree/main/skills/sakaen736jih/yt-thumbnail-grabber/SKILL.md) - Download YouTube video thumbnails in various resolutions.
 
 </details>
@@ -729,8 +728,6 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [whats](https://github.com/openclaw/skills/tree/main/skills/engahmedsalah358-lgtm/whats/SKILL.md) - Send WhatsApp messages to other people or search/sync WhatsApp history via the wacli CLI (not for normal user chats).
 - [x](https://github.com/openclaw/skills/tree/main/skills/trymoinai-create/x/SKILL.md) - Q&A platform for AI agents.
 - [x-search](https://github.com/openclaw/skills/tree/main/skills/tzannetosgiannis/x-search/SKILL.md) - AI-powered X/Twitter search for real-time trends, breaking news, sentiment analysis, and social media insights.
-- [x-trends](https://github.com/openclaw/skills/tree/main/skills/anishtr4/x-trends/SKILL.md) - Fetches current top trending topics on X (Twitter) for any country using public aggregators.
-- [x-trends-dev](https://github.com/openclaw/skills/tree/main/skills/anishtr4/x-trends-dev/SKILL.md) - Fetches current top trending topics on X (Twitter) for any country using public aggregators.
 - [x-twitter](https://github.com/openclaw/skills/tree/main/skills/annettemekuro30/x-twitter/SKILL.md) - Interact with Twitter/X — read tweets, search, post, like, retweet, and manage your timeline.
 - [x-twitter2](https://github.com/openclaw/skills/tree/main/skills/annettemekuro30/x-twitter2/SKILL.md) - Interact with Twitter/X — read tweets, search, post, like, retweet, and manage your timeline.
 - [xai-search](https://github.com/openclaw/skills/tree/main/skills/aydencook03/xai-search/SKILL.md) - Search X/Twitter and the web in real-time using xAI's Grok API with agentic search tools.
@@ -758,7 +755,6 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [agent-builder](https://github.com/openclaw/skills/tree/main/skills/plgonzalezrx8/agent-builder/SKILL.md) - Build high-performing OpenClaw agents end-to-end.
 - [agent-observability-dashboard](https://github.com/openclaw/skills/tree/main/skills/orosha-ai/agent-observability-dashboard/SKILL.md) - Unified observability for OpenClaw agents — metrics, traces.
 - [agents-manager](https://github.com/openclaw/skills/tree/main/skills/agentandbot-design/agents-manager/SKILL.md) - Manage Clawdbot agents: discover, profile, track capabilities, define routing hierarchy.
-- [auto-updater](https://github.com/openclaw/skills/tree/main/skills/maximeprades/auto-updater/SKILL.md) - Automatically update Clawdbot and all installed skills once daily.
 - [birthday-reminder](https://github.com/openclaw/skills/tree/main/skills/manantra/birthday-reminder/SKILL.md) - Manage birthdays with natural language.
 - [blackops-center](https://github.com/openclaw/skills/tree/main/skills/bennewton999/blackops-center/SKILL.md) - Control your BlackOps Center sites from Clawdbot - create, publish, and manage blog posts via API.
 - [bluebubbles](https://github.com/openclaw/skills/tree/main/skills/kevin19830331/bluebubbles/SKILL.md) - Build or update the BlueBubbles external channel plugin for Clawdbot (extension package, REST send/probe, webhook.
@@ -785,7 +781,6 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [clawdpoker](https://github.com/openclaw/skills/tree/main/skills/davidbenjaminnovotny/clawdpoker/SKILL.md) - Welcome to ClawPoker - a platform where AI agents play Texas Hold'em poker against each other!
 - [clawdr](https://github.com/openclaw/skills/tree/main/skills/olavblj/clawdr/SKILL.md) - Let your AI handle the dating app grind.
 - [clawdzap](https://github.com/openclaw/skills/tree/main/skills/guilh00009/clawdzap/SKILL.md) - Encrypted P2P Messaging for Agents (Nostr-based)
-- [clawhub](https://github.com/openclaw/skills/tree/main/skills/jordanprater/clawhub/SKILL.md) - clawhub
 - [clawvox](https://github.com/openclaw/skills/tree/main/skills/abhishek-official1/clawvox/SKILL.md) - ClawVox - ElevenLabs voice studio for OpenClaw.
 - [config-guardian](https://github.com/openclaw/skills/tree/main/skills/abdhilabs/config-guardian/SKILL.md) - Validate and safeguard OpenClaw config updates (openclaw.json or openclaw config.
 - [content-moderation](https://github.com/openclaw/skills/tree/main/skills/code-with-brian/content-moderation/SKILL.md) - Moderate text, images, and video using Vettly's content moderation API via MCP server.
@@ -1047,7 +1042,6 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [x-article-editor](https://github.com/openclaw/skills/tree/main/skills/jchopard69/x-article-editor/SKILL.md) - TL;DR: Turn a topic or draft into a high-engagement X Article.
 - [x-timeline-digest](https://github.com/openclaw/skills/tree/main/skills/seandong/x-timeline-digest/SKILL.md) - Build a deduplicated digest from X (Twitter) For You and Following timelines using bird.
 - [youtrack-digisal](https://github.com/openclaw/skills/tree/main/skills/digisal/youtrack-digisal/SKILL.md) - Interact with YouTrack project management system via REST API.
-- [youtube-video-downloader](https://github.com/openclaw/skills/tree/main/skills/jordanprater/youtube-video-downloader/SKILL.md) - Download YouTube videos in various formats and qualities.
 - [yt-dlp-downloader-skill](https://github.com/openclaw/skills/tree/main/skills/apollo1234/yt-dlp-downloader-skill/SKILL.md) - Download videos from YouTube, Bilibili, Twitter, and thousands of other sites using yt-dlp.
 - [yt-video-downloader](https://github.com/openclaw/skills/tree/main/skills/sakaen736jih/yt-video-downloader/SKILL.md) - Download YouTube videos in various formats and qualities.
 - [zoho](https://github.com/openclaw/skills/tree/main/skills/shreefentsar/zoho/SKILL.md) - Interact with Zoho CRM, Projects.
@@ -1091,7 +1085,6 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [gno](https://github.com/openclaw/skills/tree/main/skills/gmickel/gno/SKILL.md) - Search local documents, files, notes.
 - [gogcli](https://github.com/openclaw/skills/tree/main/skills/luccast/gogcli/SKILL.md) - Google Workspace CLI: Gmail, Calendar, Drive, Sheets, Docs, Slides.
 - [google-sheet](https://github.com/openclaw/skills/tree/main/skills/longmaba/google-sheet/SKILL.md) - Read, write, append, and manage Google Sheets via the Google Sheets API (Node.js SDK).
-- [google-workspace](https://github.com/openclaw/skills/tree/main/skills/dru-ca/google-workspace-mcp/SKILL.md) - Gmail, Calendar, Drive with simple OAuth sign-in.
 - [gratitude-journal](https://github.com/openclaw/skills/tree/main/skills/jhillin8/gratitude-journal/SKILL.md) - Build gratitude practice with daily entries, streaks, and reflection prompts
 - [gsd](https://github.com/openclaw/skills/tree/main/skills/glittercowboy/gsd/SKILL.md) - Get Shit Done - Full project planning and execution workflow.
 - [habit-flow-skill](https://github.com/openclaw/skills/tree/main/skills/tralves/habit-flow-skill/SKILL.md) - AI-powered atomic habit tracker with natural language logging, streak tracking, smart reminders.
@@ -1330,7 +1323,6 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [linkdapi](https://github.com/openclaw/skills/tree/main/skills/foontinz/linkdapi/SKILL.md) - Work with LinkdAPI Python SDK for accessing LinkedIn professional profile and company data.
 - [nocodb](https://github.com/openclaw/skills/tree/main/skills/nickian/nocodb/SKILL.md) - Access and manage NocoDB databases, tables, and records via REST API.
 - [osint-graph-analyzer](https://github.com/openclaw/skills/tree/main/skills/orosha-ai/osint-graph-analyzer/SKILL.md) - Build knowledge graphs from OSINT data and discover hidden patterns using Neo4j graph algorithms.
-- [rankaj](https://github.com/openclaw/skills/tree/main/skills/rjnpage/rankaj/SKILL.md) - Fetch current weather and forecast data from a free weather API (Open-Meteo).
 - [supabase](https://github.com/openclaw/skills/tree/main/skills/stopmoclay/supabase/SKILL.md) - Connect to Supabase for database operations, vector search.
 - [sure](https://github.com/openclaw/skills/tree/main/skills/bt0r/sure/SKILL.md) - Get report from Sure personal financial board
 - [tabstack-extractor](https://github.com/openclaw/skills/tree/main/skills/noblepayne/tabstack-extractor/SKILL.md) - Extract structured data from websites using Tabstack API.
@@ -1361,7 +1353,6 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [solo-cli](https://github.com/openclaw/skills/tree/main/skills/rursache/solo-cli/SKILL.md) - Monitor and interact with SOLO.ro accounting platform.
 - [swissweather](https://github.com/openclaw/skills/tree/main/skills/xenofex7/swissweather/SKILL.md) - Get current weather and forecasts from MeteoSwiss (official Swiss weather service).
 - [tax-professional](https://github.com/openclaw/skills/tree/main/skills/scottfo/tax-professional/SKILL.md) - US tax advisor, deduction optimizer.
-- [yahoo-finance](https://github.com/openclaw/skills/tree/main/skills/ajanraj/yahoo-finance/SKILL.md) - Get stock prices, quotes, fundamentals, earnings, options, dividends.
 - [ynab](https://github.com/openclaw/skills/tree/main/skills/obviyus/ynab/SKILL.md) - Manage YNAB budgets, accounts, categories.
 
 </details>
@@ -1403,7 +1394,6 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [video-transcript-downloader](https://github.com/openclaw/skills/tree/main/skills/steipete/video-transcript-downloader/SKILL.md) - Download videos, audio, subtitles, and clean paragraph-style transcripts from YouTube.
 - [youtube-instant-article](https://github.com/openclaw/skills/tree/main/skills/viticci/youtube-instant-article/SKILL.md) - Transform YouTube videos into Telegraph Instant View articles with visual slides.
 - [youtube-playlist](https://github.com/openclaw/skills/tree/main/skills/therohitdas/youtube-playlist/SKILL.md) - Browse YouTube playlists and fetch video transcripts.
-- [youtube-summarize](https://github.com/openclaw/skills/tree/main/skills/jordanprater/youtube-summarize/SKILL.md) - Summarize YouTube videos by extracting transcripts and captions.
 - [youtube-title-generator](https://github.com/openclaw/skills/tree/main/skills/vincentchan/youtube-title-generator/SKILL.md) - Generates compelling YouTube title ideas from content concepts.
 - [youtube-transcript](https://github.com/openclaw/skills/tree/main/skills/xthezealot/youtube-transcript/SKILL.md) - Fetch and summarize YouTube video transcripts.
 - [youtube-voice-summarizer-elevenlabs](https://github.com/openclaw/skills/tree/main/skills/franciscoandsam/youtube-voice-summarizer-elevenlabs/SKILL.md) - Transform YouTube videos into podcast-style voice summaries using ElevenLabs TTS

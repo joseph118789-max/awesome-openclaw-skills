@@ -3295,6 +3295,8 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 
 </details>
 
+<br/>
+
 ## 🤝 Contributing
 
 We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.

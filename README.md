@@ -77,6 +77,13 @@ OpenClaw's public registry (ClawHub) hosts **5,705 community-built skills** as o
 
 If you think a skill was incorrectly excluded or miscategorized, feel free to open an issue or PR. We may have made mistakes.
 
+<br/>
+
+<a href="https://github.com/VoltAgent/voltagent">
+<img width="1390" height="296" alt="social" src="https://github.com/user-attachments/assets/4c40affa-8e20-443a-9ec5-1abb6679b170" />
+</a>
+
+<br/>
 
 ## Table of Contents
 
@@ -94,13 +101,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 | [Clawdbot Tools](#clawdbot-tools) (121) | [Personal Development](#personal-development) (56) | [Agent-to-Agent Protocols](#agent-to-agent-protocols) (19) |
 | [CLI Utilities](#cli-utilities) (131) | [Health & Fitness](#health--fitness) (55) | |
 
-<br/>
 
-<a href="https://github.com/VoltAgent/voltagent">
-<img width="1390" height="296" alt="social" src="https://github.com/user-attachments/assets/4c40affa-8e20-443a-9ec5-1abb6679b170" />
-</a>
-
-<br/>
 
 <details open>
 <summary><h3 style="display:inline">Coding Agents & IDEs</h3></summary>

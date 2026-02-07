@@ -80,38 +80,19 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 
 ## Table of Contents
 
-- [Coding Agents & IDEs](#coding-agents--ides) (133)
-- [Git & GitHub](#git--github) (66)
-- [Moltbook](#moltbook) (51)
-- [Web & Frontend Development](#web--frontend-development) (201)
-- [DevOps & Cloud](#devops--cloud) (212)
-- [Browser & Automation](#browser--automation) (139)
-- [Image & Video Generation](#image--video-generation) (60)
-- [Apple Apps & Services](#apple-apps--services) (35)
-- [Search & Research](#search--research) (253)
-- [Clawdbot Tools](#clawdbot-tools) (121)
-- [CLI Utilities](#cli-utilities) (131)
-- [Marketing & Sales](#marketing--sales) (145)
-- [Productivity & Tasks](#productivity--tasks) (134)
-- [AI & LLMs](#ai--llms) (287)
-- [Data & Analytics](#data--analytics) (46)
-- [Finance](#finance) (22)
-- [Media & Streaming](#media--streaming) (80)
-- [Notes & PKM](#notes--pkm) (100)
-- [iOS & macOS Development](#ios--macos-development) (17)
-- [Transportation](#transportation) (73)
-- [Personal Development](#personal-development) (56)
-- [Health & Fitness](#health--fitness) (55)
-- [Communication](#communication) (133)
-- [Speech & Transcription](#speech--transcription) (66)
-- [Smart Home & IoT](#smart-home--iot) (56)
-- [Shopping & E-commerce](#shopping--e-commerce) (51)
-- [Calendar & Scheduling](#calendar--scheduling) (51)
-- [PDF & Documents](#pdf--documents) (67)
-- [Self-Hosted & Automation](#self-hosted--automation) (25)
-- [Security & Passwords](#security--passwords) (62)
-- [Gaming](#gaming) (62)
-- [Agent-to-Agent Protocols](#agent-to-agent-protocols) (19)
+| | | |
+|---|---|---|
+| [Coding Agents & IDEs](#coding-agents--ides) (133) | [Marketing & Sales](#marketing--sales) (145) | [Communication](#communication) (133) |
+| [Git & GitHub](#git--github) (66) | [Productivity & Tasks](#productivity--tasks) (134) | [Speech & Transcription](#speech--transcription) (66) |
+| [Moltbook](#moltbook) (51) | [AI & LLMs](#ai--llms) (287) | [Smart Home & IoT](#smart-home--iot) (56) |
+| [Web & Frontend Development](#web--frontend-development) (201) | [Data & Analytics](#data--analytics) (46) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
+| [DevOps & Cloud](#devops--cloud) (212) | [Finance](#finance) (22) | [Calendar & Scheduling](#calendar--scheduling) (51) |
+| [Browser & Automation](#browser--automation) (139) | [Media & Streaming](#media--streaming) (80) | [PDF & Documents](#pdf--documents) (67) |
+| [Image & Video Generation](#image--video-generation) (60) | [Notes & PKM](#notes--pkm) (100) | [Self-Hosted & Automation](#self-hosted--automation) (25) |
+| [Apple Apps & Services](#apple-apps--services) (35) | [iOS & macOS Development](#ios--macos-development) (17) | [Security & Passwords](#security--passwords) (62) |
+| [Search & Research](#search--research) (253) | [Transportation](#transportation) (73) | [Gaming](#gaming) (62) |
+| [Clawdbot Tools](#clawdbot-tools) (121) | [Personal Development](#personal-development) (56) | [Agent-to-Agent Protocols](#agent-to-agent-protocols) (19) |
+| [CLI Utilities](#cli-utilities) (131) | [Health & Fitness](#health--fitness) (55) | |
 
 <br/>
 
@@ -182,6 +163,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [file-links-tool](https://github.com/openclaw/skills/tree/main/skills/mrbeandev/file-links-tool/SKILL.md) - Securely upload files from your private AI work...
 - [flirtingbots](https://github.com/openclaw/skills/tree/main/skills/chemzo/flirtingbots/SKILL.md) - Agents do the flirting, humans get the date — y...
 - [gembox-skill](https://github.com/openclaw/skills/tree/main/skills/zsvedic/gembox-skill/SKILL.md) - Coding assistance for [GemBox.
+- [get-tldr](https://github.com/openclaw/skills/tree/main/skills/itobey/get-tldr/SKILL.md) - Provide the summary returned by the get-tldr.co...
 - [get-tldr](https://github.com/openclaw/skills/tree/main/skills/itobey/get-tldr/SKILL.md) - Provide the summary returned by the get-tldr.co...
 - [go2gg](https://github.com/openclaw/skills/tree/main/skills/rakesh1002/go2gg/SKILL.md) - Use Go2.gg API for URL shortening, link analyti...
 - [google-weather](https://github.com/openclaw/skills/tree/main/skills/shaharsha/google-weather/SKILL.md) - Google Weather API - accurate, real-time weathe...
@@ -483,6 +465,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [mtg-edh-deckbuilder](https://github.com/openclaw/skills/tree/main/skills/santidev95/mtg-edh-deckbuilder/SKILL.md) - Search and retrieve Magic: The Gathering card d...
 - [my-agent](https://github.com/openclaw/skills/tree/main/skills/lazymonlabs/my-agent/SKILL.md) - This skill responds using a calm, precise, non-...
 - [my-new-skill](https://github.com/openclaw/skills/tree/main/skills/enchantedmotorcycle/my-new-skill/SKILL.md) - [TODO: Complete and informative explanation of...
+- [naif](https://github.com/openclaw/skills/tree/main/skills/naiiif83/naif/SKILL.md) - Create and manage AI-powered trading bots via n...
 - [naif](https://github.com/openclaw/skills/tree/main/skills/naiiif83/naif/SKILL.md) - Create and manage AI-powered trading bots via n...
 - [nextjs-expert](https://github.com/openclaw/skills/tree/main/skills/jgarrison929/nextjs-expert/SKILL.md) - Use when building Next.js 14/15 applications wi...
 - [niri-ipc](https://github.com/openclaw/skills/tree/main/skills/atefr/niri-ipc/SKILL.md) - Control the Niri Wayland compositor on Linux vi...
@@ -1271,6 +1254,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [serpapi](https://github.com/openclaw/skills/tree/main/skills/ianpcook/serpapi/SKILL.md) - Unified search across Google, Amazon, Yelp, Ope...
 - [serper-search](https://github.com/openclaw/skills/tree/main/skills/samoppakiks/serper-search/SKILL.md) - Native Clawdbot plugin for Google Search via [S...
 - [session-logs](https://github.com/openclaw/skills/tree/main/skills/guogang1024/session-logs/SKILL.md) - Search and analyze your own session logs (older...
+- [session-logs](https://github.com/openclaw/skills/tree/main/skills/guogang1024/session-logs/SKILL.md) - Search and analyze your own session logs (older...
 - [shellf](https://github.com/openclaw/skills/tree/main/skills/andrewleonardi/shellf/SKILL.md) - Goodreads for OpenClaw agents.
 - [silverbullet-skill](https://github.com/openclaw/skills/tree/main/skills/ramonitor/silverbullet-skill/SKILL.md) - MCP server for SilverBullet note-taking app - r...
 - [skill-search](https://github.com/openclaw/skills/tree/main/skills/dustinjamest/skill-search/SKILL.md) - Search, discover, and dynamically load skills f...
@@ -1860,6 +1844,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [tensorpm](https://github.com/openclaw/skills/tree/main/skills/neo552/tensorpm/SKILL.md) - AI-powered project management - a Notion and Ji...
 - [test1](https://github.com/openclaw/skills/tree/main/skills/chaunceyliu/test1/SKILL.md) - Manage Trello boards, lists, and cards via the...
 - [tesy](https://github.com/openclaw/skills/tree/main/skills/kipasdinding6969-alt/tesy/SKILL.md) - > Related: [[AGENTS]], [[skills/pai-redteam/Wor...
+- [thecolony-heartbeat](https://github.com/openclaw/skills/tree/main/skills/jackparnell/thecolony-heartbeat/SKILL.md) - Periodic check-in routine for The Colony.
 - [thecolony-heartbeat](https://github.com/openclaw/skills/tree/main/skills/jackparnell/thecolony-heartbeat/SKILL.md) - Periodic check-in routine for The Colony.
 - [things-mac](https://github.com/openclaw/skills/tree/main/skills/steipete/things-mac/SKILL.md) - Manage Things 3 via the `things` CLI on macOS (...
 - [ticktick](https://github.com/openclaw/skills/tree/main/skills/manuelhettich/ticktick/SKILL.md) - Manage TickTick tasks and projects from the com...

@@ -1400,6 +1400,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [pokemon-red](https://github.com/openclaw/skills/tree/main/skills/drbarq/pokemon-red/SKILL.md) - Play Pokemon Red autonomously via PyBoy emulator.
 - [project-management-skills](https://github.com/openclaw/skills/tree/main/skills/sedation6612/project-management-skills/SKILL.md) - A governed project management OS
 - [prompt-guard](https://github.com/openclaw/skills/tree/main/skills/seojoonkim/prompt-guard/SKILL.md) - Advanced prompt injection defense system for Clawdbot
+- [redline](https://github.com/openclaw/skills/tree/main/skills/wgj/redline/SKILL.md) - Live rate-limit awareness for Claude.ai and OpenAI with automatic pacing tiers.
 - [scrappa-skill](https://github.com/openclaw/skills/tree/main/skills/userlip/scrappa-skill/SKILL.md) - Access Scrappa's MCP server for Google, YouTube, Amazon
 - [security-check-skill](https://github.com/openclaw/skills/tree/main/skills/wolffan/security-check-skill/SKILL.md) - Security audit and inspection skill for Clawdbot
 - [self-reflect](https://github.com/openclaw/skills/tree/main/skills/stevengonsalvez/self-reflect/SKILL.md) - Self-improvement through conversation analysis.

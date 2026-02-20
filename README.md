@@ -1897,7 +1897,6 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [agentic-ai-gold-test](https://github.com/openclaw/skills/tree/main/skills/amitabhainarunachala/agentic-ai-gold-test/SKILL.md) - Self-improving agent framework
 - [agentic-calling](https://github.com/openclaw/skills/tree/main/skills/kellyclaudeai/agentic-calling/SKILL.md) - Enables AI agents to make and receive phone calls
 - [agentic-compass](https://github.com/openclaw/skills/tree/main/skills/orosha-ai/agentic-compass/SKILL.md) - Local-only self-reflection that forces action for AI agents.
-- [agentledger](https://github.com/openclaw/skills/tree/main/skills/c-goro/agentledger/SKILL.md) - Expense tracking and accounting for AI agents.
 - [agentmail](https://github.com/openclaw/skills/tree/main/skills/adboio/agentmail/SKILL.md) - API-first email platform designed for AI agents.
 - [agentos](https://github.com/openclaw/skills/tree/main/skills/agentossoftware/agentos/SKILL.md) - The complete AgentOS integration for Clawdbot.
 - [agentpixels-skill](https://github.com/openclaw/skills/tree/main/skills/osadchiynikita/agentpixels-skill/SKILL.md) - AI Agent Collaborative Art Platform - 512x512
@@ -2123,7 +2122,6 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [semantic-walk](https://github.com/openclaw/skills/tree/main/skills/liet-codes/semantic-walk/SKILL.md) - A collaborative navigation ritual through semantic space.
 - [senseguard](https://github.com/openclaw/skills/tree/main/skills/fermionoid/senseguard/SKILL.md) - Semantic security scanner for OpenClaw skills.
 - [simmer-ai-divergence](https://github.com/openclaw/skills/tree/main/skills/adlai88/simmer-ai-divergence/SKILL.md) - Surface markets where Simmer's AI price diverges
-- [skillguard](https://github.com/openclaw/skills/tree/main/skills/c-goro/skillguard/SKILL.md) - Security scanner for AgentSkill packages.
 - [skills-a2a](https://github.com/openclaw/skills/tree/main/skills/msoica/skills-a2a/SKILL.md) - Verify AI agents, check trust scores (0-100), fetch A2A agent cards
 - [skills-ai-assistant](https://github.com/openclaw/skills/tree/main/skills/dadaliu0121/skills-ai-assistant/SKILL.md) - Generate summaries for conversation content
 - [skillscanner](https://github.com/openclaw/skills/tree/main/skills/rexshang/skillscanner/SKILL.md) - Security scanner for ClawHub skills from Gen Digital.

@@ -1288,6 +1288,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [srt](https://github.com/openclaw/skills/tree/main/skills/khj809/srt/SKILL.md) - Korean SRT (Super Rapid Train) search, reservation, and booking management.
 - [startups](https://github.com/openclaw/skills/tree/main/skills/networkingit/startups/SKILL.md) - Research startups, funding rounds, acquisitions, and hiring trends
 - [super-websearch-realtime](https://github.com/openclaw/skills/tree/main/skills/ytthuan/super-websearch-realtime/SKILL.md) - Priority live web search for real-time
+- [swarm-safety](https://github.com/openclaw/skills/tree/main/skills/rsavitt/swarm-safety/SKILL.md) - Multi-agent AI safety simulation with soft probabilistic labels
 - [tavily](https://github.com/openclaw/skills/tree/main/skills/arun-8687/tavily-search/SKILL.md) - AI-optimized web search via Tavily API.
 - [testresearchskill](https://github.com/openclaw/skills/tree/main/skills/cyberengage/testresearchskill/SKILL.md) - Magic 8-Ball fortune teller: selects and returns one
 - [tg](https://github.com/openclaw/skills/tree/main/skills/arein/tg/SKILL.md) - Telegram CLI for reading, searching.

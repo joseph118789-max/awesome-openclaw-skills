@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-    <strong>Discover 3002 community-built OpenClaw skills, organized by category.
+    <strong>Discover 2868 community-built OpenClaw skills, organized by category.
     </strong>
     <br />
     <br />
@@ -20,7 +20,7 @@
 </a> 
 
 [![AI Agent Papers](https://img.shields.io/badge/AI%20Agent-Research%20Papers-b31b1b)](https://github.com/VoltAgent/awesome-ai-agent-papers)
-![Skills Count](https://img.shields.io/badge/skills-3002-blue?style=flat-square)
+![Skills Count](https://img.shields.io/badge/skills-2868-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 [![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-clawdbot-skills?style=social)](https://github.com/VoltAgent/awesome-claude-skills/network/members)
@@ -62,7 +62,7 @@ You can also paste the skill's GitHub repository link directly into your assista
 
 ## Why This List Exists?
 
-OpenClaw's public registry (ClawHub) hosts **5,705 community-built skills** as of February 7, 2026. This awesome list has **3,002 skills**. Here's what we filtered out:
+OpenClaw's public registry (ClawHub) hosts **5,705 community-built skills** as of February 7, 2026. This awesome list has **2,868 skills**. Here's what we filtered out:
 
 | Filter | Excluded |
 |--------|----------|
